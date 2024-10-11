@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="c04c6527834d16506bf6ba29feaad396" sys_domain="global" table="x_1229582_tech_h_0_candidaturas" version="3" view="workspace-tech-hire-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-10 22:33:19</sys_created_on>
+            <sys_id>844ce527834d16506bf6ba29feaad329</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1229582_tech_h_0_candidaturas" sys_domain="global" view="583c6de36d4d1650d2acbfbac1b89f20">c04c6527834d16506bf6ba29feaad396</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-10 22:33:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>candidato</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-10 22:33:19</sys_created_on>
+            <sys_id>cc4ce527834d16506bf6ba29feaad32d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1229582_tech_h_0_candidaturas" sys_domain="global" view="583c6de36d4d1650d2acbfbac1b89f20">c04c6527834d16506bf6ba29feaad396</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-10 22:33:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-10 22:33:19</sys_created_on>
+            <sys_id>c44ce527834d16506bf6ba29feaad32b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1229582_tech_h_0_candidaturas" sys_domain="global" view="583c6de36d4d1650d2acbfbac1b89f20">c04c6527834d16506bf6ba29feaad396</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-10 22:33:19</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-10 22:33:19</sys_created_on>
+            <sys_id>084ce527834d16506bf6ba29feaad32e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1229582_tech_h_0_candidaturas" sys_domain="global" view="583c6de36d4d1650d2acbfbac1b89f20">c04c6527834d16506bf6ba29feaad396</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-10 22:33:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-10 22:33:19</sys_created_on>
+            <sys_id>cc4ce527834d16506bf6ba29feaad32b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1229582_tech_h_0_candidaturas" sys_domain="global" view="583c6de36d4d1650d2acbfbac1b89f20">c04c6527834d16506bf6ba29feaad396</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-10 22:33:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-10 22:33:19</sys_created_on>
+            <sys_id>004ce527834d16506bf6ba29feaad32f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1229582_tech_h_0_candidaturas" sys_domain="global" view="583c6de36d4d1650d2acbfbac1b89f20">c04c6527834d16506bf6ba29feaad396</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-10 22:33:19</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>departamento</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-10 22:33:19</sys_created_on>
+            <sys_id>c44ce527834d16506bf6ba29feaad32c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1229582_tech_h_0_candidaturas" sys_domain="global" view="583c6de36d4d1650d2acbfbac1b89f20">c04c6527834d16506bf6ba29feaad396</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-10 22:33:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comentarios_internos</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-10 22:33:19</sys_created_on>
+            <sys_id>484ce527834d16506bf6ba29feaad32f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1229582_tech_h_0_candidaturas" sys_domain="global" view="583c6de36d4d1650d2acbfbac1b89f20">c04c6527834d16506bf6ba29feaad396</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-10 22:33:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comentarios_atendente</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-10 22:33:19</sys_created_on>
+            <sys_id>cc4ce527834d16506bf6ba29feaad32c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1229582_tech_h_0_candidaturas" sys_domain="global" view="583c6de36d4d1650d2acbfbac1b89f20">c04c6527834d16506bf6ba29feaad396</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-10 22:33:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comentarios_time_tecnico</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-10 22:33:19</sys_created_on>
+            <sys_id>404ce527834d16506bf6ba29feaad330</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1229582_tech_h_0_candidaturas" sys_domain="global" view="583c6de36d4d1650d2acbfbac1b89f20">c04c6527834d16506bf6ba29feaad396</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-10 22:33:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>entrevista_pessoal</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-10 22:33:19</sys_created_on>
+            <sys_id>c44ce527834d16506bf6ba29feaad32d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1229582_tech_h_0_candidaturas" sys_domain="global" view="583c6de36d4d1650d2acbfbac1b89f20">c04c6527834d16506bf6ba29feaad396</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-10 22:33:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>entrevista_tecnica</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-10 22:33:19</sys_created_on>
+            <sys_id>084c6527834d16506bf6ba29feaad399</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1229582_tech_h_0_candidaturas" sys_domain="global" view="583c6de36d4d1650d2acbfbac1b89f20">c04c6527834d16506bf6ba29feaad396</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-10 22:33:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sugestao_entrevista_pessoal</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-10 22:33:19</sys_created_on>
+            <sys_id>4c4c6527834d16506bf6ba29feaad39a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1229582_tech_h_0_candidaturas" sys_domain="global" view="583c6de36d4d1650d2acbfbac1b89f20">c04c6527834d16506bf6ba29feaad396</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-10 22:33:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>aprovacao_de_sugestao_atendente</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-10 22:33:19</sys_created_on>
+            <sys_id>8c4ce527834d16506bf6ba29feaad329</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1229582_tech_h_0_candidaturas" sys_domain="global" view="583c6de36d4d1650d2acbfbac1b89f20">c04c6527834d16506bf6ba29feaad396</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-10 22:33:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>entrevista_pessoal_aprovada_pelo_candidato</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-10 22:33:19</sys_created_on>
+            <sys_id>844ce527834d16506bf6ba29feaad32a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1229582_tech_h_0_candidaturas" sys_domain="global" view="583c6de36d4d1650d2acbfbac1b89f20">c04c6527834d16506bf6ba29feaad396</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-10 22:33:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>entrevista_pessoal_realizada</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-10 22:33:19</sys_created_on>
+            <sys_id>484ce527834d16506bf6ba29feaad330</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1229582_tech_h_0_candidaturas" sys_domain="global" view="583c6de36d4d1650d2acbfbac1b89f20">c04c6527834d16506bf6ba29feaad396</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-10 22:33:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>entrevista_tecnica_aprovada_pelo_candidato</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-10 22:33:19</sys_created_on>
+            <sys_id>404ce527834d16506bf6ba29feaad331</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1229582_tech_h_0_candidaturas" sys_domain="global" view="583c6de36d4d1650d2acbfbac1b89f20">c04c6527834d16506bf6ba29feaad396</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-10 22:33:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>aprovacao_do_candidato</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-10 22:33:19</sys_created_on>
+            <sys_id>cc4ce527834d16506bf6ba29feaad32a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1229582_tech_h_0_candidaturas" sys_domain="global" view="583c6de36d4d1650d2acbfbac1b89f20">c04c6527834d16506bf6ba29feaad396</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-10 22:33:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comentarios_email_final</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-10 22:33:19</sys_created_on>
+            <sys_id>444c6527834d16506bf6ba29feaad39a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1229582_tech_h_0_candidaturas" sys_domain="global" view="583c6de36d4d1650d2acbfbac1b89f20">c04c6527834d16506bf6ba29feaad396</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-10 22:33:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_1229582_tech_h_0_candidaturas</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-10 22:33:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c04c6527834d16506bf6ba29feaad396</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1229582_tech_h_0_candidaturas</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+            <sys_update_name>sys_ui_section_c04c6527834d16506bf6ba29feaad396</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-10 22:33:19</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace Tech Hire 0" name="workspace-tech-hire-0">583c6de36d4d1650d2acbfbac1b89f20</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

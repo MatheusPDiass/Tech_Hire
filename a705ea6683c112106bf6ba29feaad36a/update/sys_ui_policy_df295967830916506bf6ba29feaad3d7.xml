@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conditions/>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <isolate_script>true</isolate_script>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>true</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+if (gs.hasRole('x_1229582_tech_h_0.time tecnico')) {
+    g_form.setDisplay('entrevista_pessoal', false);
+	g_form.setDisplay('sugestao_entrevista_pessoal', false);
+	g_form.setDisplay('entrevista_pessoal_realizada', false);	
+	g_form.setDisplay('entrevista_pessoal_aprovada_pelo_candidato', false);	
+	g_form.setDisplay('aprovacao_de_sugestao_atendente', false);
+} else {}
+}]]></script_true>
+        <set_values/>
+        <short_description>Ajustes para role de time técnico.</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-10 21:10:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>df295967830916506bf6ba29feaad3d7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Ajustes para role de time técnico.</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_update_name>sys_ui_policy_df295967830916506bf6ba29feaad3d7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-10 21:21:00</sys_updated_on>
+        <table>x_1229582_tech_h_0_candidaturas</table>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_ui_policy>
+    <sys_es_latest_script action="INSERT_OR_UPDATE">
+        <id>df295967830916506bf6ba29feaad3d7</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-10 21:20:59</sys_created_on>
+        <sys_id>acbb11ab830916506bf6ba29feaad338</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-10 21:20:59</sys_updated_on>
+        <table>sys_ui_policy</table>
+        <use_es_latest>false</use_es_latest>
+    </sys_es_latest_script>
+</record_update>

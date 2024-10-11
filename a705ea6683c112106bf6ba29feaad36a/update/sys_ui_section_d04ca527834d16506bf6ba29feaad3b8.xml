@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Dados Pessoais" section_id="d04ca527834d16506bf6ba29feaad3b8" sys_domain="global" table="x_1229582_tech_h_0_candidatos" version="3" view="workspace-tech-hire-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-10 22:33:20</sys_created_on>
+            <sys_id>144ce527834d16506bf6ba29feaad3ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Dados Pessoais" display_value="Dados Pessoais" name="x_1229582_tech_h_0_candidatos" sys_domain="global" view="583c6de36d4d1650d2acbfbac1b89f20">d04ca527834d16506bf6ba29feaad3b8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-10 22:33:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>nome_completo</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-10 22:33:20</sys_created_on>
+            <sys_id>144c2927834d16506bf6ba29feaad303</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Dados Pessoais" display_value="Dados Pessoais" name="x_1229582_tech_h_0_candidatos" sys_domain="global" view="583c6de36d4d1650d2acbfbac1b89f20">d04ca527834d16506bf6ba29feaad3b8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-10 22:33:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>data_de_nascimento</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-10 22:33:20</sys_created_on>
+            <sys_id>1c4c2927834d16506bf6ba29feaad300</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Dados Pessoais" display_value="Dados Pessoais" name="x_1229582_tech_h_0_candidatos" sys_domain="global" view="583c6de36d4d1650d2acbfbac1b89f20">d04ca527834d16506bf6ba29feaad3b8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-10 22:33:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cpf</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-10 22:33:20</sys_created_on>
+            <sys_id>1c4c2927834d16506bf6ba29feaad302</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Dados Pessoais" display_value="Dados Pessoais" name="x_1229582_tech_h_0_candidatos" sys_domain="global" view="583c6de36d4d1650d2acbfbac1b89f20">d04ca527834d16506bf6ba29feaad3b8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-10 22:33:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-10 22:33:20</sys_created_on>
+            <sys_id>144c2927834d16506bf6ba29feaad300</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Dados Pessoais" display_value="Dados Pessoais" name="x_1229582_tech_h_0_candidatos" sys_domain="global" view="583c6de36d4d1650d2acbfbac1b89f20">d04ca527834d16506bf6ba29feaad3b8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-10 22:33:20</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>telefone_celular</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-10 22:33:20</sys_created_on>
+            <sys_id>1c4c2927834d16506bf6ba29feaad303</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Dados Pessoais" display_value="Dados Pessoais" name="x_1229582_tech_h_0_candidatos" sys_domain="global" view="583c6de36d4d1650d2acbfbac1b89f20">d04ca527834d16506bf6ba29feaad3b8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-10 22:33:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-10 22:33:20</sys_created_on>
+            <sys_id>1c4ce527834d16506bf6ba29feaad3ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Dados Pessoais" display_value="Dados Pessoais" name="x_1229582_tech_h_0_candidatos" sys_domain="global" view="583c6de36d4d1650d2acbfbac1b89f20">d04ca527834d16506bf6ba29feaad3b8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-10 22:33:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>endereco_completo</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-10 22:33:20</sys_created_on>
+            <sys_id>1c4c2927834d16506bf6ba29feaad301</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Dados Pessoais" display_value="Dados Pessoais" name="x_1229582_tech_h_0_candidatos" sys_domain="global" view="583c6de36d4d1650d2acbfbac1b89f20">d04ca527834d16506bf6ba29feaad3b8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-10 22:33:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>nacionalidade</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-10 22:33:20</sys_created_on>
+            <sys_id>1c4ce527834d16506bf6ba29feaad3fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Dados Pessoais" display_value="Dados Pessoais" name="x_1229582_tech_h_0_candidatos" sys_domain="global" view="583c6de36d4d1650d2acbfbac1b89f20">d04ca527834d16506bf6ba29feaad3b8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-10 22:33:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>idiomas</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-10 22:33:20</sys_created_on>
+            <sys_id>144c2927834d16506bf6ba29feaad301</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Dados Pessoais" display_value="Dados Pessoais" name="x_1229582_tech_h_0_candidatos" sys_domain="global" view="583c6de36d4d1650d2acbfbac1b89f20">d04ca527834d16506bf6ba29feaad3b8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-10 22:33:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>disponibilidade_para_inicio</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-10 22:33:20</sys_created_on>
+            <sys_id>144ce527834d16506bf6ba29feaad3fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Dados Pessoais" display_value="Dados Pessoais" name="x_1229582_tech_h_0_candidatos" sys_domain="global" view="583c6de36d4d1650d2acbfbac1b89f20">d04ca527834d16506bf6ba29feaad3b8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-10 22:33:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>referencia</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-10 22:33:20</sys_created_on>
+            <sys_id>144c2927834d16506bf6ba29feaad302</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Dados Pessoais" display_value="Dados Pessoais" name="x_1229582_tech_h_0_candidatos" sys_domain="global" view="583c6de36d4d1650d2acbfbac1b89f20">d04ca527834d16506bf6ba29feaad3b8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-10 22:33:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Dados Pessoais</caption>
+            <header>false</header>
+            <name>x_1229582_tech_h_0_candidatos</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-10 22:33:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d04ca527834d16506bf6ba29feaad3b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1229582_tech_h_0_candidatos</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+            <sys_update_name>sys_ui_section_d04ca527834d16506bf6ba29feaad3b8</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-10 22:33:20</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace Tech Hire 0" name="workspace-tech-hire-0">583c6de36d4d1650d2acbfbac1b89f20</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

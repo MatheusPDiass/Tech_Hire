@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>sys_ux_applicability sys_id for Workspace audience</description>
+        <name>wbApplicabilityConfigId</name>
+        <page display_value="Tech Hire">d43c6de3c94d1650a6f63acfadfa0b37</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-10 22:33:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>9c3c6de31f4d16508136e7d472b60f1a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>wbApplicabilityConfigId</sys_name>
+        <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_update_name>sys_ux_page_property_9c3c6de31f4d16508136e7d472b60f1a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-10 22:33:10</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1229582_tech_h_0.d43c6de3c94d1650a6f63acfadfa0b37.root.global.wbApplicabilityConfigId</unique_name>
+        <value>b93c2127834d16506bf6ba29feaad366</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=9c3c6de31f4d16508136e7d472b60f1a"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</application>
+        <file_path/>
+        <instance_id>54a6739fdb86fd14f697684e139619f1</instance_id>
+        <instance_name>dev196913</instance_name>
+        <name>sys_ux_page_property_9c3c6de31f4d16508136e7d472b60f1a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>sys_ux_applicability sys_id for Workspace audience</description><name>wbApplicabilityConfigId</name><page display_value="Tech Hire">d43c6de3c94d1650a6f63acfadfa0b37</page><required_translations/><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-10 22:33:05</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>9c3c6de31f4d16508136e7d472b60f1a</sys_id><sys_mod_count>1</sys_mod_count><sys_name>wbApplicabilityConfigId</sys_name><sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package><sys_policy/><sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope><sys_update_name>sys_ux_page_property_9c3c6de31f4d16508136e7d472b60f1a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-10 22:33:10</sys_updated_on><type>string</type><unique_name>x_1229582_tech_h_0.d43c6de3c94d1650a6f63acfadfa0b37.root.global.wbApplicabilityConfigId</unique_name><value>b93c2127834d16506bf6ba29feaad366</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=9c3c6de31f4d16508136e7d472b60f1a"/></record_update>]]></payload>
+        <payload_hash>-674729129</payload_hash>
+        <record_name>wbApplicabilityConfigId</record_name>
+        <reverted_from/>
+        <source>ef05ea6683c112106bf6ba29feaad370</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-10 22:33:10</sys_created_on>
+        <sys_id>bd3c2127834d16506bf6ba29feaad3b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192789086da0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-10 22:33:10</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>753c2127054d16504e85799b5f6ec3b9</update_guid>
+        <update_guid_history>753c2127054d16504e85799b5f6ec3b9:-674729129,b93c2127d34d1650fb0eb8fd6c6a4eb7:1915934812</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-10 22:53:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>41083797707b41aeb2555598170533e4</sys_id>
+        <sys_metadata>9c3c6de31f4d16508136e7d472b60f1a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>wbApplicabilityConfigId</sys_name>
+        <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_scope_delete display_value="">bcf4d85c582b43c4969a1f41fad23b10</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_9c3c6de31f4d16508136e7d472b60f1a</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_9c3c6de31f4d16508136e7d472b60f1a">bd3c2127834d16506bf6ba29feaad3b9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-10 22:53:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

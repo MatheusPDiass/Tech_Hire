@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow">
+    <sys_hub_flow action="DELETE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <attributes/>
+        <authored_on_release_version>26000</authored_on_release_version>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from>51cbc6c97743011031e3b3c64b5a9907</copied_from>
+        <copied_from_name>FlowTemplate: Record Trigger</copied_from_name>
+        <description>teste teste</description>
+        <display_name_after_preview/>
+        <flow_priority/>
+        <generation_source/>
+        <internal_name>flow_de_teste</internal_name>
+        <label_cache>[]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <master_snapshot_digest/>
+        <name>Flow de teste</name>
+        <natlang/>
+        <outputs/>
+        <pre_compiled>false</pre_compiled>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <run_with_roles/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <substatus/>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-08 20:11:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>51983a3a838596106bf6ba29feaad3a1</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Flow de teste</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_update_name>sys_hub_flow_51983a3a838596106bf6ba29feaad3a1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-08 20:11:28</sys_updated_on>
+        <type>flow</type>
+        <version>2</version>
+    </sys_hub_flow>
+    <sys_translated_text action="DELETE" query="documentkey=51983a3a838596106bf6ba29feaad3a1"/>
+    <sys_variable_value action="DELETE" query="document_key=51983a3a838596106bf6ba29feaad3a1"/>
+    <sys_hub_flow_stage action="DELETE" query="flow=51983a3a838596106bf6ba29feaad3a1"/>
+    <sys_flow_cat_variable_model action="DELETE" query="id=51983a3a838596106bf6ba29feaad3a1^sys_idNOT IN59983a3a838596106bf6ba29feaad3a3"/>
+    <sys_flow_cat_variable_model action="DELETE">
+        <id>51983a3a838596106bf6ba29feaad3a1</id>
+        <name>Flow de teste</name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-08 20:11:22</sys_created_on>
+        <sys_id>59983a3a838596106bf6ba29feaad3a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-08 20:11:22</sys_updated_on>
+    </sys_flow_cat_variable_model>
+    <sys_flow_cat_variable action="DELETE" query="flow_catalog_model=59983a3a838596106bf6ba29feaad3a3"/>
+    <sys_hub_flow_input action="DELETE" query="model=51983a3a838596106bf6ba29feaad3a1^sys_idNOT IN65983a3a838596106bf6ba29feaad3c0,a9983a3a838596106bf6ba29feaad3cf,d1983a3a838596106bf6ba29feaad3b7"/>
+    <sys_hub_flow_input action="DELETE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=document_id</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent>table_name</dependent>
+        <dependent_on_field>table_name</dependent_on_field>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>current</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="">document_id</internal_type>
+        <label>Record</label>
+        <mandatory>true</mandatory>
+        <max_length>200</max_length>
+        <model display_value="Flow de teste">51983a3a838596106bf6ba29feaad3a1</model>
+        <model_id>51983a3a838596106bf6ba29feaad3a1</model_id>
+        <model_table>sys_hub_flow</model_table>
+        <name>var__m_sys_hub_flow_input_51983a3a838596106bf6ba29feaad3a1</name>
+        <next_element/>
+        <order>100</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_flow_input</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-08 20:11:23</sys_created_on>
+        <sys_id>65983a3a838596106bf6ba29feaad3c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-08 20:11:23</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>true</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_flow_input>
+    <sys_hub_action_input_action_instance action="DELETE" query="action_input=65983a3a838596106bf6ba29feaad3c0"/>
+    <sys_complex_object action="DELETE">
+        <label/>
+        <name>FDCollection</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>global</scope_name>
+        <serialized_content>{"FlowDesigner:FDCollection":{"$COCollectionField":[{"FDChangeDetails":{"previous_display_value":"String","previous_display_value.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Previous Display Value\",\"mandatory\":\"false\",\"order\":\"4\",\"max_length\":\"0\"}"},"previous_value":"String","previous_value.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Previous Value\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\"}"},"current_display_value":"String","current_display_value.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Current Display Value\",\"mandatory\":\"false\",\"order\":\"5\",\"max_length\":\"0\"}"},"current_value":"String","current_value.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Current Value\",\"mandatory\":\"false\",\"order\":\"3\",\"max_length\":\"0\"}"},"field_name":"String","field_name.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Field Name\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\"}"}}}],"$COCollectionField.$type_facets":{"SimpleMapFacet":"{\"pwd2droppable\":\"true\",\"default_value\":\"\",\"label\":\"Changed Fields\",\"mandatory\":\"false\",\"child_name\":\"FDChangeDetails\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FDCollection\",\"child_label\":\"FDChangeDetails\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"100\",\"max_length\":\"4000\"}"},"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FDCollection.$type_facets":{"SimpleMapFacet":"{\"pwd2droppable\":\"true\",\"default_value\":\"\",\"label\":\"Changed Fields\",\"mandatory\":\"false\",\"child_name\":\"FDChangeDetails\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FDCollection\",\"child_label\":\"FDChangeDetails\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"100\",\"max_length\":\"4000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-13 23:19:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path/>
+        <sys_id>f4f014150f023300ecf0cc52ff767eed</sys_id>
+        <sys_mod_count>101</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Flow Designer Designer Model" source="com.glide.hub.designer_backend.model">ee9284bef8f2021008dd9cfea425ac2d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-28 05:06:11</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+    <sys_hub_flow_input action="DELETE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>child_label=FDChangeDetails,child_name=FDChangeDetails,child_type=object,child_type_label=Object,co_type_name=FDCollection,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,pwd2droppable=true,uiType=array.object,uiTypeLabel=Array.Object</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>changed_fields</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="String">string</internal_type>
+        <label>Changed Fields</label>
+        <mandatory>false</mandatory>
+        <max_length>4000</max_length>
+        <model display_value="Flow de teste">51983a3a838596106bf6ba29feaad3a1</model>
+        <model_id>51983a3a838596106bf6ba29feaad3a1</model_id>
+        <model_table>sys_hub_flow</model_table>
+        <name>var__m_sys_hub_flow_input_51983a3a838596106bf6ba29feaad3a1</name>
+        <next_element/>
+        <order>100</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_flow_input</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-08 20:11:23</sys_created_on>
+        <sys_id>a9983a3a838596106bf6ba29feaad3cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-08 20:11:23</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_flow_input>
+    <sys_hub_action_input_action_instance action="DELETE" query="action_input=a9983a3a838596106bf6ba29feaad3cf"/>
+    <sys_hub_flow_input action="DELETE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,test_input_hidden=true,uiType=table_name</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>table_name</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="">table_name</internal_type>
+        <label>Table Name</label>
+        <mandatory>false</mandatory>
+        <max_length>200</max_length>
+        <model display_value="Flow de teste">51983a3a838596106bf6ba29feaad3a1</model>
+        <model_id>51983a3a838596106bf6ba29feaad3a1</model_id>
+        <model_table>sys_hub_flow</model_table>
+        <name>var__m_sys_hub_flow_input_51983a3a838596106bf6ba29feaad3a1</name>
+        <next_element/>
+        <order>101</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_flow_input</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-08 20:11:23</sys_created_on>
+        <sys_id>d1983a3a838596106bf6ba29feaad3b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-08 20:11:23</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_flow_input>
+    <sys_hub_action_input_action_instance action="DELETE" query="action_input=d1983a3a838596106bf6ba29feaad3b7"/>
+    <sys_hub_flow_output action="DELETE" query="model=51983a3a838596106bf6ba29feaad3a1"/>
+    <sys_hub_alias_mapping action="DELETE" query="source_id=51983a3a838596106bf6ba29feaad3a1"/>
+    <sys_hub_trigger_instance_v2 action="DELETE" query="flow=51983a3a838596106bf6ba29feaad3a1^sys_idNOT IN61983a3a838596106bf6ba29feaad3d5"/>
+    <sys_hub_trigger_instance_v2 action="DELETE">
+        <comment/>
+        <display_text/>
+        <flow display_value="Flow de teste">51983a3a838596106bf6ba29feaad3a1</flow>
+        <name>Created or Updated</name>
+        <remote_sys_id/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-08 20:11:23</sys_created_on>
+        <sys_id>61983a3a838596106bf6ba29feaad3d5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-08 20:11:24</sys_updated_on>
+        <trigger_definition display_value="Created or Updated">a45d9180c32222002841b63b12d3aea7</trigger_definition>
+        <trigger_inputs>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</trigger_inputs>
+        <trigger_outputs/>
+        <trigger_type>record_create_or_update</trigger_type>
+    </sys_hub_trigger_instance_v2>
+    <sys_hub_action_instance_v2 action="DELETE" query="flow=51983a3a838596106bf6ba29feaad3a1"/>
+    <sys_hub_sub_flow_instance_v2 action="DELETE" query="flow=51983a3a838596106bf6ba29feaad3a1"/>
+    <sys_hub_flow_logic_instance_v2 action="DELETE" query="flow=51983a3a838596106bf6ba29feaad3a1"/>
+    <sys_hub_pill_compound action="DELETE" query="attached_to=51983a3a838596106bf6ba29feaad3a1"/>
+    <sys_hub_flow_variable action="DELETE" query="model=51983a3a838596106bf6ba29feaad3a1"/>
+    <sys_documentation action="DELETE" query="name=var__m_sys_hub_flow_input_51983a3a838596106bf6ba29feaad3a1^sys_idNOT IN61983a3a838596106bf6ba29feaad3bf,65983a3a838596106bf6ba29feaad3c2,ed983a3a838596106bf6ba29feaad3d1"/>
+    <sys_documentation action="DELETE">
+        <element>table_name</element>
+        <help/>
+        <hint/>
+        <label>Table Name</label>
+        <language>en</language>
+        <name>var__m_sys_hub_flow_input_51983a3a838596106bf6ba29feaad3a1</name>
+        <plural/>
+        <sys_class_name>sys_documentation</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-08 20:11:23</sys_created_on>
+        <sys_id>61983a3a838596106bf6ba29feaad3bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-08 20:11:23</sys_updated_on>
+        <url/>
+        <url_target/>
+    </sys_documentation>
+    <sys_documentation action="DELETE">
+        <element>current</element>
+        <help/>
+        <hint/>
+        <label>Record</label>
+        <language>en</language>
+        <name>var__m_sys_hub_flow_input_51983a3a838596106bf6ba29feaad3a1</name>
+        <plural/>
+        <sys_class_name>sys_documentation</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-08 20:11:23</sys_created_on>
+        <sys_id>65983a3a838596106bf6ba29feaad3c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-08 20:11:23</sys_updated_on>
+        <url/>
+        <url_target/>
+    </sys_documentation>
+    <sys_documentation action="DELETE">
+        <element>changed_fields</element>
+        <help/>
+        <hint/>
+        <label>Changed Fields</label>
+        <language>en</language>
+        <name>var__m_sys_hub_flow_input_51983a3a838596106bf6ba29feaad3a1</name>
+        <plural/>
+        <sys_class_name>sys_documentation</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-08 20:11:23</sys_created_on>
+        <sys_id>ed983a3a838596106bf6ba29feaad3d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-08 20:11:23</sys_updated_on>
+        <url/>
+        <url_target/>
+    </sys_documentation>
+    <sys_choice action="DELETE" query="name=var__m_sys_hub_flow_input_51983a3a838596106bf6ba29feaad3a1"/>
+    <sys_documentation action="DELETE" query="name=var__m_sys_hub_flow_output_51983a3a838596106bf6ba29feaad3a1"/>
+    <sys_choice action="DELETE" query="name=var__m_sys_hub_flow_output_51983a3a838596106bf6ba29feaad3a1"/>
+    <sys_flow_trigger_plan action="DELETE" query="plan_id=51983a3a838596106bf6ba29feaad3a1"/>
+    <sys_flow_subflow_plan action="DELETE" query="plan_id=51983a3a838596106bf6ba29feaad3a1"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</application>
+        <file_path/>
+        <instance_id>54a6739fdb86fd14f697684e139619f1</instance_id>
+        <instance_name>dev196913</instance_name>
+        <name>sys_hub_flow_51983a3a838596106bf6ba29feaad3a1</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_hub_flow"&gt;&lt;sys_hub_flow action="INSERT_OR_UPDATE"&gt;&lt;access&gt;public&lt;/access&gt;&lt;acls/&gt;&lt;active&gt;false&lt;/active&gt;&lt;annotation/&gt;&lt;attributes/&gt;&lt;authored_on_release_version&gt;26000&lt;/authored_on_release_version&gt;&lt;callable_by_client_api&gt;false&lt;/callable_by_client_api&gt;&lt;category/&gt;&lt;compiler_build/&gt;&lt;copied_from&gt;51cbc6c97743011031e3b3c64b5a9907&lt;/copied_from&gt;&lt;copied_from_name&gt;FlowTemplate: Record Trigger&lt;/copied_from_name&gt;&lt;description&gt;teste teste&lt;/description&gt;&lt;display_name_after_preview/&gt;&lt;flow_priority/&gt;&lt;generation_source/&gt;&lt;internal_name&gt;flow_de_teste&lt;/internal_name&gt;&lt;label_cache&gt;[]&lt;/label_cache&gt;&lt;latest_snapshot/&gt;&lt;master_snapshot/&gt;&lt;master_snapshot_digest/&gt;&lt;name&gt;Flow de teste&lt;/name&gt;&lt;natlang/&gt;&lt;outputs/&gt;&lt;pre_compiled&gt;false&lt;/pre_compiled&gt;&lt;remote_trigger_id/&gt;&lt;run_as&gt;user&lt;/run_as&gt;&lt;run_with_roles/&gt;&lt;sc_callable&gt;false&lt;/sc_callable&gt;&lt;show_draft_actions&gt;false&lt;/show_draft_actions&gt;&lt;show_triggered_flows&gt;false&lt;/show_triggered_flows&gt;&lt;status&gt;draft&lt;/status&gt;&lt;substatus/&gt;&lt;sys_class_name&gt;sys_hub_flow&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-08 20:11:22&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;51983a3a838596106bf6ba29feaad3a1&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Flow de teste&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Tech Hire" source="x_1229582_tech_h_0"&gt;a705ea6683c112106bf6ba29feaad36a&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Tech Hire"&gt;a705ea6683c112106bf6ba29feaad36a&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_hub_flow_51983a3a838596106bf6ba29feaad3a1&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-08 20:11:28&lt;/sys_updated_on&gt;&lt;type&gt;flow&lt;/type&gt;&lt;version&gt;2&lt;/version&gt;&lt;/sys_hub_flow&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=51983a3a838596106bf6ba29feaad3a1"/&gt;&lt;sys_variable_value action="delete_multiple" query="document_key=51983a3a838596106bf6ba29feaad3a1"/&gt;&lt;sys_hub_flow_stage action="delete_multiple" query="flow=51983a3a838596106bf6ba29feaad3a1"/&gt;&lt;sys_flow_cat_variable_model action="delete_multiple" query="id=51983a3a838596106bf6ba29feaad3a1^sys_idNOT IN59983a3a838596106bf6ba29feaad3a3"/&gt;&lt;sys_flow_cat_variable_model action="INSERT_OR_UPDATE"&gt;&lt;id&gt;51983a3a838596106bf6ba29feaad3a1&lt;/id&gt;&lt;name&gt;Flow de teste&lt;/name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-08 20:11:22&lt;/sys_created_on&gt;&lt;sys_id&gt;59983a3a838596106bf6ba29feaad3a3&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_scope/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-08 20:11:22&lt;/sys_updated_on&gt;&lt;/sys_flow_cat_variable_model&gt;&lt;sys_flow_cat_variable action="delete_multiple" query="flow_catalog_model=59983a3a838596106bf6ba29feaad3a3"/&gt;&lt;sys_hub_flow_input action="delete_multiple" query="model=51983a3a838596106bf6ba29feaad3a1^sys_idNOT IN65983a3a838596106bf6ba29feaad3c0,a9983a3a838596106bf6ba29feaad3cf,d1983a3a838596106bf6ba29feaad3b7"/&gt;&lt;sys_hub_flow_input action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes&gt;element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=document_id&lt;/attributes&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent&gt;table_name&lt;/dependent&gt;&lt;dependent_on_field&gt;table_name&lt;/dependent_on_field&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;current&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;formula/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;help/&gt;&lt;hint/&gt;&lt;internal_type display_value=""&gt;document_id&lt;/internal_type&gt;&lt;label&gt;Record&lt;/label&gt;&lt;mandatory&gt;true&lt;/mandatory&gt;&lt;max_length&gt;200&lt;/max_length&gt;&lt;model display_value="Flow de teste"&gt;51983a3a838596106bf6ba29feaad3a1&lt;/model&gt;&lt;model_id&gt;51983a3a838596106bf6ba29feaad3a1&lt;/model_id&gt;&lt;model_table&gt;sys_hub_flow&lt;/model_table&gt;&lt;name&gt;var__m_sys_hub_flow_input_51983a3a838596106bf6ba29feaad3a1&lt;/name&gt;&lt;next_element/&gt;&lt;order&gt;100&lt;/order&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_hub_flow_input&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-08 20:11:23&lt;/sys_created_on&gt;&lt;sys_id&gt;65983a3a838596106bf6ba29feaad3c0&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package/&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Tech Hire"&gt;a705ea6683c112106bf6ba29feaad36a&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-08 20:11:23&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;true&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;virtual_type&gt;script&lt;/virtual_type&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_hub_flow_input&gt;&lt;sys_hub_action_input_action_instance action="delete_multiple" query="action_input=65983a3a838596106bf6ba29feaad3c0"/&gt;&lt;sys_complex_object action="INSERT_OR_UPDATE"&gt;&lt;label/&gt;&lt;name&gt;FDCollection&lt;/name&gt;&lt;namespace&gt;FlowDesigner&lt;/namespace&gt;&lt;scope_name&gt;global&lt;/scope_name&gt;&lt;serialized_content&gt;{"FlowDesigner:FDCollection":{"$COCollectionField":[{"FDChangeDetails":{"previous_display_value":"String","previous_display_value.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Previous Display Value\",\"mandatory\":\"false\",\"order\":\"4\",\"max_length\":\"0\"}"},"previous_value":"String","previous_value.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Previous Value\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\"}"},"current_display_value":"String","current_display_value.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Current Display Value\",\"mandatory\":\"false\",\"order\":\"5\",\"max_length\":\"0\"}"},"current_value":"String","current_value.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Current Value\",\"mandatory\":\"false\",\"order\":\"3\",\"max_length\":\"0\"}"},"field_name":"String","field_name.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Field Name\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\"}"}}}],"$COCollectionField.$type_facets":{"SimpleMapFacet":"{\"pwd2droppable\":\"true\",\"default_value\":\"\",\"label\":\"Changed Fields\",\"mandatory\":\"false\",\"child_name\":\"FDChangeDetails\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FDCollection\",\"child_label\":\"FDChangeDetails\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"100\",\"max_length\":\"4000\"}"},"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FDCollection.$type_facets":{"SimpleMapFacet":"{\"pwd2droppable\":\"true\",\"default_value\":\"\",\"label\":\"Changed Fields\",\"mandatory\":\"false\",\"child_name\":\"FDChangeDetails\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FDCollection\",\"child_label\":\"FDChangeDetails\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"100\",\"max_length\":\"4000\"}"}}&lt;/serialized_content&gt;&lt;sys_class_name&gt;sys_complex_object&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-06-13 23:19:20&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path/&gt;&lt;sys_id&gt;f4f014150f023300ecf0cc52ff767eed&lt;/sys_id&gt;&lt;sys_mod_count&gt;101&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Flow Designer Designer Model" source="com.glide.hub.designer_backend.model"&gt;ee9284bef8f2021008dd9cfea425ac2d&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-09-28 05:06:11&lt;/sys_updated_on&gt;&lt;type&gt;complex_object_collection&lt;/type&gt;&lt;/sys_complex_object&gt;&lt;sys_hub_flow_input action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes&gt;child_label=FDChangeDetails,child_name=FDChangeDetails,child_type=object,child_type_label=Object,co_type_name=FDCollection,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,pwd2droppable=true,uiType=array.object,uiTypeLabel=Array.Object&lt;/attributes&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;changed_fields&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;formula/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;help/&gt;&lt;hint/&gt;&lt;internal_type display_value="String"&gt;string&lt;/internal_type&gt;&lt;label&gt;Changed Fields&lt;/label&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;4000&lt;/max_length&gt;&lt;model display_value="Flow de teste"&gt;51983a3a838596106bf6ba29feaad3a1&lt;/model&gt;&lt;model_id&gt;51983a3a838596106bf6ba29feaad3a1&lt;/model_id&gt;&lt;model_table&gt;sys_hub_flow&lt;/model_table&gt;&lt;name&gt;var__m_sys_hub_flow_input_51983a3a838596106bf6ba29feaad3a1&lt;/name&gt;&lt;next_element/&gt;&lt;order&gt;100&lt;/order&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_hub_flow_input&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-08 20:11:23&lt;/sys_created_on&gt;&lt;sys_id&gt;a9983a3a838596106bf6ba29feaad3cf&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package/&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Tech Hire"&gt;a705ea6683c112106bf6ba29feaad36a&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-08 20:11:23&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;virtual_type&gt;script&lt;/virtual_type&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_hub_flow_input&gt;&lt;sys_hub_action_input_action_instance action="delete_multiple" query="action_input=a9983a3a838596106bf6ba29feaad3cf"/&gt;&lt;sys_hub_flow_input action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes&gt;element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,test_input_hidden=true,uiType=table_name&lt;/attributes&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;table_name&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;formula/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;help/&gt;&lt;hint/&gt;&lt;internal_type display_value=""&gt;table_name&lt;/internal_type&gt;&lt;label&gt;Table Name&lt;/label&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;200&lt;/max_length&gt;&lt;model display_value="Flow de teste"&gt;51983a3a838596106bf6ba29feaad3a1&lt;/model&gt;&lt;model_id&gt;51983a3a838596106bf6ba29feaad3a1&lt;/model_id&gt;&lt;model_table&gt;sys_hub_flow&lt;/model_table&gt;&lt;name&gt;var__m_sys_hub_flow_input_51983a3a838596106bf6ba29feaad3a1&lt;/name&gt;&lt;next_element/&gt;&lt;order&gt;101&lt;/order&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_hub_flow_input&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-08 20:11:23&lt;/sys_created_on&gt;&lt;sys_id&gt;d1983a3a838596106bf6ba29feaad3b7&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package/&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Tech Hire"&gt;a705ea6683c112106bf6ba29feaad36a&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-08 20:11:23&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;virtual_type&gt;script&lt;/virtual_type&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_hub_flow_input&gt;&lt;sys_hub_action_input_action_instance action="delete_multiple" query="action_input=d1983a3a838596106bf6ba29feaad3b7"/&gt;&lt;sys_hub_flow_output action="delete_multiple" query="model=51983a3a838596106bf6ba29feaad3a1"/&gt;&lt;sys_hub_alias_mapping action="delete_multiple" query="source_id=51983a3a838596106bf6ba29feaad3a1"/&gt;&lt;sys_hub_trigger_instance_v2 action="delete_multiple" query="flow=51983a3a838596106bf6ba29feaad3a1^sys_idNOT IN61983a3a838596106bf6ba29feaad3d5"/&gt;&lt;sys_hub_trigger_instance_v2 action="INSERT_OR_UPDATE"&gt;&lt;comment/&gt;&lt;display_text/&gt;&lt;flow display_value="Flow de teste"&gt;51983a3a838596106bf6ba29feaad3a1&lt;/flow&gt;&lt;name&gt;Created or Updated&lt;/name&gt;&lt;remote_sys_id/&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-08 20:11:23&lt;/sys_created_on&gt;&lt;sys_id&gt;61983a3a838596106bf6ba29feaad3d5&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_scope/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-08 20:11:24&lt;/sys_updated_on&gt;&lt;trigger_definition display_value="Created or Updated"&gt;a45d9180c32222002841b63b12d3aea7&lt;/trigger_definition&gt;&lt;trigger_inputs&gt;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&lt;/trigger_inputs&gt;&lt;trigger_outputs/&gt;&lt;trigger_type&gt;record_create_or_update&lt;/trigger_type&gt;&lt;/sys_hub_trigger_instance_v2&gt;&lt;sys_hub_action_instance_v2 action="delete_multiple" query="flow=51983a3a838596106bf6ba29feaad3a1"/&gt;&lt;sys_hub_sub_flow_instance_v2 action="delete_multiple" query="flow=51983a3a838596106bf6ba29feaad3a1"/&gt;&lt;sys_hub_flow_logic_instance_v2 action="delete_multiple" query="flow=51983a3a838596106bf6ba29feaad3a1"/&gt;&lt;sys_hub_pill_compound action="delete_multiple" query="attached_to=51983a3a838596106bf6ba29feaad3a1"/&gt;&lt;sys_hub_flow_variable action="delete_multiple" query="model=51983a3a838596106bf6ba29feaad3a1"/&gt;&lt;sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_input_51983a3a838596106bf6ba29feaad3a1^sys_idNOT IN61983a3a838596106bf6ba29feaad3bf,65983a3a838596106bf6ba29feaad3c2,ed983a3a838596106bf6ba29feaad3d1"/&gt;&lt;sys_documentation action="INSERT_OR_UPDATE"&gt;&lt;element&gt;table_name&lt;/element&gt;&lt;help/&gt;&lt;hint/&gt;&lt;label&gt;Table Name&lt;/label&gt;&lt;language&gt;en&lt;/language&gt;&lt;name&gt;var__m_sys_hub_flow_input_51983a3a838596106bf6ba29feaad3a1&lt;/name&gt;&lt;plural/&gt;&lt;sys_class_name&gt;sys_documentation&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-08 20:11:23&lt;/sys_created_on&gt;&lt;sys_id&gt;61983a3a838596106bf6ba29feaad3bf&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Tech Hire" source="x_1229582_tech_h_0"&gt;a705ea6683c112106bf6ba29feaad36a&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Tech Hire"&gt;a705ea6683c112106bf6ba29feaad36a&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-08 20:11:23&lt;/sys_updated_on&gt;&lt;url/&gt;&lt;url_target/&gt;&lt;/sys_documentation&gt;&lt;sys_documentation action="INSERT_OR_UPDATE"&gt;&lt;element&gt;current&lt;/element&gt;&lt;help/&gt;&lt;hint/&gt;&lt;label&gt;Record&lt;/label&gt;&lt;language&gt;en&lt;/language&gt;&lt;name&gt;var__m_sys_hub_flow_input_51983a3a838596106bf6ba29feaad3a1&lt;/name&gt;&lt;plural/&gt;&lt;sys_class_name&gt;sys_documentation&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-08 20:11:23&lt;/sys_created_on&gt;&lt;sys_id&gt;65983a3a838596106bf6ba29feaad3c2&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Tech Hire" source="x_1229582_tech_h_0"&gt;a705ea6683c112106bf6ba29feaad36a&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Tech Hire"&gt;a705ea6683c112106bf6ba29feaad36a&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-08 20:11:23&lt;/sys_updated_on&gt;&lt;url/&gt;&lt;url_target/&gt;&lt;/sys_documentation&gt;&lt;sys_documentation action="INSERT_OR_UPDATE"&gt;&lt;element&gt;changed_fields&lt;/element&gt;&lt;help/&gt;&lt;hint/&gt;&lt;label&gt;Changed Fields&lt;/label&gt;&lt;language&gt;en&lt;/language&gt;&lt;name&gt;var__m_sys_hub_flow_input_51983a3a838596106bf6ba29feaad3a1&lt;/name&gt;&lt;plural/&gt;&lt;sys_class_name&gt;sys_documentation&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-08 20:11:23&lt;/sys_created_on&gt;&lt;sys_id&gt;ed983a3a838596106bf6ba29feaad3d1&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Tech Hire" source="x_1229582_tech_h_0"&gt;a705ea6683c112106bf6ba29feaad36a&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Tech Hire"&gt;a705ea6683c112106bf6ba29feaad36a&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-08 20:11:23&lt;/sys_updated_on&gt;&lt;url/&gt;&lt;url_target/&gt;&lt;/sys_documentation&gt;&lt;sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_input_51983a3a838596106bf6ba29feaad3a1"/&gt;&lt;sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_output_51983a3a838596106bf6ba29feaad3a1"/&gt;&lt;sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_51983a3a838596106bf6ba29feaad3a1"/&gt;&lt;sys_flow_trigger_plan action="delete_multiple" query="plan_id=51983a3a838596106bf6ba29feaad3a1"/&gt;&lt;sys_flow_subflow_plan action="delete_multiple" query="plan_id=51983a3a838596106bf6ba29feaad3a1"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>514176244</payload_hash>
+        <record_name>Flow de teste</record_name>
+        <reverted_from/>
+        <source>ef05ea6683c112106bf6ba29feaad370</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-08 20:11:28</sys_created_on>
+        <sys_id>7e98b63a838596106bf6ba29feaad360</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1926dc213c00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-08 20:11:28</sys_updated_on>
+        <type>Flow</type>
+        <update_guid>3698b63a748596108abda653c5c52960</update_guid>
+        <update_guid_history>3698b63a748596108abda653c5c52960:514176244,6d987a3ac7859610d094562477e21302:-907279695,11983a3abd8596108e18e23b6cf8a1a8:-1671445688</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-08 20:15:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_hub_flow">sys_hub_flow</sys_db_object>
+        <sys_id>960f197077cf4c0a970df43ca60d5651</sys_id>
+        <sys_metadata>51983a3a838596106bf6ba29feaad3a1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Flow de teste</sys_name>
+        <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_scope_delete display_value="">bcf4d85c582b43c4969a1f41fad23b10</sys_scope_delete>
+        <sys_update_name>sys_hub_flow_51983a3a838596106bf6ba29feaad3a1</sys_update_name>
+        <sys_update_version display_value="sys_hub_flow_51983a3a838596106bf6ba29feaad3a1">7e98b63a838596106bf6ba29feaad360</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-08 20:15:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

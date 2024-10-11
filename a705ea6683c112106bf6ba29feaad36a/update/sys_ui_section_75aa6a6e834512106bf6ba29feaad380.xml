@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Currículo" section_id="75aa6a6e834512106bf6ba29feaad380" sys_domain="global" table="x_1229582_tech_h_0_candidatos" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>experiencias_profissionais</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-08 00:32:02</sys_created_on>
+            <sys_id>42aa6a6e834512106bf6ba29feaad3ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Currículo" display_value="Currículo" name="x_1229582_tech_h_0_candidatos" sys_domain="global" view="Default view">75aa6a6e834512106bf6ba29feaad380</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-08 00:32:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>formacao_academica</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-08 00:32:02</sys_created_on>
+            <sys_id>c6aa6a6e834512106bf6ba29feaad3ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Currículo" display_value="Currículo" name="x_1229582_tech_h_0_candidatos" sys_domain="global" view="Default view">75aa6a6e834512106bf6ba29feaad380</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-08 00:32:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>disponibilidade_para_inicio</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-08 00:32:02</sys_created_on>
+            <sys_id>4eaa6a6e834512106bf6ba29feaad3ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Currículo" display_value="Currículo" name="x_1229582_tech_h_0_candidatos" sys_domain="global" view="Default view">75aa6a6e834512106bf6ba29feaad380</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-08 00:32:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-08 00:32:02</sys_created_on>
+            <sys_id>c2aaaa6e834512106bf6ba29feaad300</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Currículo" display_value="Currículo" name="x_1229582_tech_h_0_candidatos" sys_domain="global" view="Default view">75aa6a6e834512106bf6ba29feaad380</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-08 00:32:02</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>habilidades_e_competencias</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-08 00:32:02</sys_created_on>
+            <sys_id>4aaaaa6e834512106bf6ba29feaad300</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Currículo" display_value="Currículo" name="x_1229582_tech_h_0_candidatos" sys_domain="global" view="Default view">75aa6a6e834512106bf6ba29feaad380</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-08 00:32:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pretensao_salarial</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-08 00:32:02</sys_created_on>
+            <sys_id>ceaaaa6e834512106bf6ba29feaad300</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Currículo" display_value="Currículo" name="x_1229582_tech_h_0_candidatos" sys_domain="global" view="Default view">75aa6a6e834512106bf6ba29feaad380</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-08 00:32:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>observacoes</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-08 00:32:02</sys_created_on>
+            <sys_id>46aaaa6e834512106bf6ba29feaad301</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Currículo" display_value="Currículo" name="x_1229582_tech_h_0_candidatos" sys_domain="global" view="Default view">75aa6a6e834512106bf6ba29feaad380</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-08 00:32:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Currículo</caption>
+            <header>false</header>
+            <name>x_1229582_tech_h_0_candidatos</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-08 00:32:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>75aa6a6e834512106bf6ba29feaad380</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1229582_tech_h_0_candidatos</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+            <sys_update_name>sys_ui_section_75aa6a6e834512106bf6ba29feaad380</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-08 00:32:02</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

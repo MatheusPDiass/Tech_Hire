@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_1229582_tech_h_0_candidaturas" version="2" view="workspace-tech-hire-1">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_1229582_tech_h_0_candidaturas" element="NULL" name="x_1229582_tech_h_0_candidaturas" parent="NULL" relationship="NULL" sys_domain="global" view="060396e7100d5650acd5c13a455ff465">30135ae7830d56506bf6ba29feaad390</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-11 01:22:56</sys_created_on>
+            <sys_id>f8135ae7830d56506bf6ba29feaad390</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-11 01:22:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>priority</element>
+            <list_id display_value="x_1229582_tech_h_0_candidaturas" element="NULL" name="x_1229582_tech_h_0_candidaturas" parent="NULL" relationship="NULL" sys_domain="global" view="060396e7100d5650acd5c13a455ff465">30135ae7830d56506bf6ba29feaad390</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-11 01:22:56</sys_created_on>
+            <sys_id>fc135ae7830d56506bf6ba29feaad390</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-11 01:22:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="x_1229582_tech_h_0_candidaturas" element="NULL" name="x_1229582_tech_h_0_candidaturas" parent="NULL" relationship="NULL" sys_domain="global" view="060396e7100d5650acd5c13a455ff465">30135ae7830d56506bf6ba29feaad390</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-11 01:22:56</sys_created_on>
+            <sys_id>f0135ae7830d56506bf6ba29feaad391</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-11 01:22:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="x_1229582_tech_h_0_candidaturas" element="NULL" name="x_1229582_tech_h_0_candidaturas" parent="NULL" relationship="NULL" sys_domain="global" view="060396e7100d5650acd5c13a455ff465">30135ae7830d56506bf6ba29feaad390</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-11 01:22:56</sys_created_on>
+            <sys_id>f4135ae7830d56506bf6ba29feaad391</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-11 01:22:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="x_1229582_tech_h_0_candidaturas" element="NULL" name="x_1229582_tech_h_0_candidaturas" parent="NULL" relationship="NULL" sys_domain="global" view="060396e7100d5650acd5c13a455ff465">30135ae7830d56506bf6ba29feaad390</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-11 01:22:56</sys_created_on>
+            <sys_id>f8135ae7830d56506bf6ba29feaad391</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-11 01:22:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_class_name</element>
+            <list_id display_value="x_1229582_tech_h_0_candidaturas" element="NULL" name="x_1229582_tech_h_0_candidaturas" parent="NULL" relationship="NULL" sys_domain="global" view="060396e7100d5650acd5c13a455ff465">30135ae7830d56506bf6ba29feaad390</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-11 01:22:56</sys_created_on>
+            <sys_id>fc135ae7830d56506bf6ba29feaad391</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-11 01:22:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>candidato.nome_completo</element>
+            <list_id display_value="x_1229582_tech_h_0_candidaturas" element="NULL" name="x_1229582_tech_h_0_candidaturas" parent="NULL" relationship="NULL" sys_domain="global" view="060396e7100d5650acd5c13a455ff465">30135ae7830d56506bf6ba29feaad390</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-11 01:22:56</sys_created_on>
+            <sys_id>f0135ae7830d56506bf6ba29feaad392</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-11 01:22:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_1229582_tech_h_0_candidaturas</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-11 01:22:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>30135ae7830d56506bf6ba29feaad390</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1229582_tech_h_0_candidaturas</sys_name>
+            <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+            <sys_update_name>sys_ui_list_x_1229582_tech_h_0_candidaturas_workspace-tech-hire-1</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-11 01:22:56</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace Tech Hire 1" name="workspace-tech-hire-1">060396e7100d5650acd5c13a455ff465</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

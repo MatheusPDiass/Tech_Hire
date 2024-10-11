@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="20952e6a83c112106bf6ba29feaad38a" label="Candidatos " max_length="40" name="x_1229582_tech_h_0_candidatos" text_index="true" type="collection">
+        <element label="Experiências Profissionais" mandatory="true" max_length="40" name="experiencias_profissionais" type="string"/>
+        <element label="Email" mandatory="true" max_length="40" name="email" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="Telefone / Celular" mandatory="true" max_length="40" name="telefone_celular" type="integer"/>
+        <element label="Nacionalidade" mandatory="true" max_length="40" name="nacionalidade" type="string"/>
+        <element label="Observações" max_length="40" name="observacoes" type="string"/>
+        <element label="Idiomas" max_length="200" name="idiomas" type="string"/>
+        <element label="Pretensão Salarial" mandatory="true" max_length="40" name="pretensao_salarial" type="string"/>
+        <element label="Data de Nascimento" mandatory="true" max_length="40" name="data_de_nascimento" type="calendar_date_time"/>
+        <element display="true" label="Nome completo" mandatory="true" max_length="40" name="nome_completo" type="string"/>
+        <element choice="1" label="Disponibilidade para inicio" mandatory="true" max_length="40" name="disponibilidade_para_inicio" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="De 2 a 4 semanas" sequence="1" value="De 2 a 4 semanas"/>
+                <element inactive_on_update="false" label="mais de 30 dias" sequence="2" value="mais de 30 dias"/>
+                <element inactive_on_update="false" label="Inicio Imediato" sequence="0" value="Inicio Imediato"/>
+            </choice>
+        </element>
+        <element label="CPF" mandatory="true" max_length="40" name="cpf" type="string"/>
+        <element label="Formação Acadêmica" max_length="400" name="formacao_academica" type="string"/>
+        <element label="Endereço Completo" max_length="40" name="endereco_completo" type="string"/>
+        <element label="Habilidades e competências" max_length="40" name="habilidades_e_competencias" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ccdab23e838596106bf6ba29feaad397" extends="task" label="Candidaturas" max_length="40" name="x_1229582_tech_h_0_candidaturas" text_index="true" type="collection">
+        <element label="Sugestão entrevista pessoal" max_length="40" name="sugestao_entrevista_pessoal" type="calendar_date_time"/>
+        <element label="Entrevista Técnica" max_length="40" name="entrevista_tecnica" type="calendar_date_time"/>
+        <element label="Entrevista Pessoal" max_length="40" name="entrevista_pessoal" type="calendar_date_time"/>
+        <element choice="1" label="Aprovação de sugestão (Atendente)" max_length="40" name="aprovacao_de_sugestao_atendente" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Data reprovada" sequence="1" value="Data reprovada"/>
+                <element inactive_on_update="false" label="Data aprovada" sequence="0" value="Data aprovada"/>
+            </choice>
+        </element>
+        <element choice="1" label="Entrevista técnica aprovada pelo candidato" max_length="40" name="entrevista_tecnica_aprovada_pelo_candidato" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Sim" sequence="0" value="Sim"/>
+                <element inactive_on_update="false" label="Não" sequence="1" value="Não"/>
+            </choice>
+        </element>
+        <element label="Comentários Time Técnico" max_length="400" name="comentarios_time_tecnico" type="string"/>
+        <element label="Comentários email final" max_length="600" name="comentarios_email_final" type="string"/>
+        <element choice="1" label="Departamento" max_length="40" name="departamento" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Time Técnico" sequence="1" value="Time Tecnico"/>
+                <element inactive_on_update="false" label="Atendente do Sistema" sequence="0" value="Atendente do Sistema"/>
+            </choice>
+        </element>
+        <element display="true" label="Candidato" max_length="32" name="candidato" read_only="true" reference="x_1229582_tech_h_0_candidatos" type="reference"/>
+        <element choice="1" label="Entrevista pessoal realizada" max_length="40" name="entrevista_pessoal_realizada" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Sim" sequence="0" value="Sim"/>
+                <element inactive_on_update="false" label="Não" sequence="1" value="Não"/>
+            </choice>
+        </element>
+        <element choice="1" label="Aprovação do candidato" max_length="40" name="aprovacao_do_candidato" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Reprovado" sequence="1" value="Reprovado"/>
+                <element inactive_on_update="false" label="Aprovado" sequence="0" value="Aprovado"/>
+            </choice>
+        </element>
+        <element choice="1" label="Entrevista pessoal aprovada pelo candidato" max_length="40" name="entrevista_pessoal_aprovada_pelo_candidato" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Nova sugestão de data" sequence="1" value="Nova sugestão de data"/>
+                <element inactive_on_update="false" label="Data aprovada" sequence="0" value="Data aprovada"/>
+            </choice>
+        </element>
+        <element label="Comentários internos" max_length="400" name="comentarios_internos" type="string"/>
+    </element>
+</database>
