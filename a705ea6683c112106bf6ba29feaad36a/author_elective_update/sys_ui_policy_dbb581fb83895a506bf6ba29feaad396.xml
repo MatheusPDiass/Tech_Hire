@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="DELETE">
+        <active>true</active>
+        <conditions table="x_1229582_tech_h_0_candidaturas">state!=1^EQ<item display_value="Aguardando Atendente" endquery="false" field="state" goto="false" newquery="false" operator="!=" or="false" value="1"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <description/>
+        <global>false</global>
+        <inherit>false</inherit>
+        <isolate_script>true</isolate_script>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>true</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+	var admin = 'x_1229582_tech_h_0.atendente do sistema';
+	var tTec = 'x_1229582_tech_h_0.time tecnico';
+	var user = g_user.hasRole('x_1229582_tech_h_0.candidato');
+
+if (user != (admin || tTec)) {
+    g_form.setReadonly('entrevista_pessoal', true);
+	g_form.setReadonly('entrevista_pessoal_horario', true);
+	g_form.setReadonly('entrevista_tecnica', true);
+	g_form.setReadonly('entrevista_tecnica_horario', true);
+} else {
+}
+}]]></script_true>
+        <set_values/>
+        <short_description>Ui policy para candidato</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 14:24:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>dbb581fb83895a506bf6ba29feaad396</sys_id>
+        <sys_mod_count>23</sys_mod_count>
+        <sys_name>Ui policy para candidato</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_update_name>sys_ui_policy_dbb581fb83895a506bf6ba29feaad396</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-14 06:54:11</sys_updated_on>
+        <table>x_1229582_tech_h_0_candidaturas</table>
+        <ui_type>0</ui_type>
+        <view display_value="" name="visao_candidato_e_tecnica">visao_candidato_e_tecnica</view>
+    </sys_ui_policy>
+    <sys_es_latest_script action="DELETE">
+        <id>dbb581fb83895a506bf6ba29feaad396</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-12 01:32:13</sys_created_on>
+        <sys_id>1ace13f383015e506bf6ba29feaad394</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-12 01:32:13</sys_updated_on>
+        <table>sys_ui_policy</table>
+        <use_es_latest>false</use_es_latest>
+    </sys_es_latest_script>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</application>
+        <file_path/>
+        <instance_id>54a6739fdb86fd14f697684e139619f1</instance_id>
+        <instance_name>dev196913</instance_name>
+        <name>sys_ui_policy_dbb581fb83895a506bf6ba29feaad396</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_policy"&gt;&lt;sys_ui_policy action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;conditions table="x_1229582_tech_h_0_candidaturas"&gt;state!=1^EQ&lt;item display_value="Aguardando Atendente" endquery="false" field="state" goto="false" newquery="false" operator="!=" or="false" value="1"/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/conditions&gt;&lt;description/&gt;&lt;global&gt;false&lt;/global&gt;&lt;inherit&gt;false&lt;/inherit&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;model_id/&gt;&lt;model_table/&gt;&lt;on_load&gt;true&lt;/on_load&gt;&lt;order&gt;100&lt;/order&gt;&lt;reverse_if_false&gt;true&lt;/reverse_if_false&gt;&lt;run_scripts&gt;true&lt;/run_scripts&gt;&lt;script_false&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_false&gt;&lt;script_true&gt;&lt;![CDATA[function onCondition() {
+	var admin = 'x_1229582_tech_h_0.atendente do sistema';
+	var tTec = 'x_1229582_tech_h_0.time tecnico';
+	var user = g_user.hasRole('x_1229582_tech_h_0.candidato');
+
+if (user != (admin || tTec)) {
+    g_form.setReadonly('entrevista_pessoal', true);
+	g_form.setReadonly('entrevista_pessoal_horario', true);
+	g_form.setReadonly('entrevista_tecnica', true);
+	g_form.setReadonly('entrevista_tecnica_horario', true);
+} else {
+}
+}]]&gt;&lt;/script_true&gt;&lt;set_values/&gt;&lt;short_description&gt;Ui policy para candidato&lt;/short_description&gt;&lt;sys_class_name&gt;sys_ui_policy&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-11 14:24:05&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;dbb581fb83895a506bf6ba29feaad396&lt;/sys_id&gt;&lt;sys_mod_count&gt;23&lt;/sys_mod_count&gt;&lt;sys_name&gt;Ui policy para candidato&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Tech Hire" source="x_1229582_tech_h_0"&gt;a705ea6683c112106bf6ba29feaad36a&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Tech Hire"&gt;a705ea6683c112106bf6ba29feaad36a&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_policy_dbb581fb83895a506bf6ba29feaad396&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-14 06:54:11&lt;/sys_updated_on&gt;&lt;table&gt;x_1229582_tech_h_0_candidaturas&lt;/table&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view display_value="" name="visao_candidato_e_tecnica"&gt;visao_candidato_e_tecnica&lt;/view&gt;&lt;/sys_ui_policy&gt;&lt;sys_es_latest_script action="INSERT_OR_UPDATE"&gt;&lt;id&gt;dbb581fb83895a506bf6ba29feaad396&lt;/id&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-12 01:32:13&lt;/sys_created_on&gt;&lt;sys_id&gt;1ace13f383015e506bf6ba29feaad394&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-12 01:32:13&lt;/sys_updated_on&gt;&lt;table&gt;sys_ui_policy&lt;/table&gt;&lt;use_es_latest&gt;false&lt;/use_es_latest&gt;&lt;/sys_es_latest_script&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-23104133</payload_hash>
+        <record_name>Ui policy para candidato</record_name>
+        <reverted_from/>
+        <source>1e8e666b830596506bf6ba29feaad3f2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-14 06:54:11</sys_created_on>
+        <sys_id>22abba6c839196106bf6ba29feaad391</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19289ce4db90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-14 06:54:11</sys_updated_on>
+        <type>UI Policy</type>
+        <update_guid>a6abba6c269196109a2de5f577fe4490</update_guid>
+        <update_guid_history>a6abba6c269196109a2de5f577fe4490:-23104133,579afe2cd391961087104e15091eea62:-1595650169,d85ab26c469196109d9e93b89339bc23:28226650,be3a726cae9196106703c7157d7f7f33:1607353294,d12af62cdf91961066469e5c7e1cdc13:-203658308,85b9762c08919610c4cbec45633952e3:-1779038631,4b9876a82b9196100122e0ac7b18b8b0:-1134007546,c448f668bf919610247a7e43b5879ed7:1336056216,c828fe68819196105f7da6e0a753edfb:-1504186095,1397b26495919610ce1695a3d6f4c311:-684584588,1407b22c7b51961014cbf02f62aaa9e8:1824506021,bbb6722cf2519610c2c8bb9ecdaf1ddc:-694370995,a376f26897519610d36d87e1048e7eed:849311748,d176b2685c519610b56e176236035fe0:617447918,54f5fee01b5196106ec8519771e5628e:136587489,ead5b6ac9d11961071bdb1579908441a:-1962489943,80c5beece611961070b75cd4219db5db:-1774541633,8385baec0f119610afbfe0c3d75fb855:583814149,9a053e287c11961003db7bcf0dadba65:834468257,0c9f5bbb07015e50becb6abcab7be79d:1453774199,6ace573364015e5013e514b45c41e809:-1742887038,0c8d977f72cd1e507ed9640b89d9d737:-1883449105,e4ebd73f28cd1e50a9b8392b6b7dcecb:-1766527911,5fd5413f69895a50c1c01932cb8d4093:1945611766</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-15 19:17:14</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy">sys_ui_policy</sys_db_object>
+        <sys_id>3a556d71ff654f9bbb3b82c5ae0871d9</sys_id>
+        <sys_metadata>dbb581fb83895a506bf6ba29feaad396</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ui policy para candidato</sys_name>
+        <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+        <sys_parent display_value="Candidaturas">ccdab23e838596106bf6ba29feaad397</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_scope_delete display_value="">bcf4d85c582b43c4969a1f41fad23b10</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_dbb581fb83895a506bf6ba29feaad396</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_dbb581fb83895a506bf6ba29feaad396">22abba6c839196106bf6ba29feaad391</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-15 19:17:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

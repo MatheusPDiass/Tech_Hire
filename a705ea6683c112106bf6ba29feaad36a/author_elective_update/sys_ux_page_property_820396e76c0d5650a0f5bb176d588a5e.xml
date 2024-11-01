@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>User Preferences</description>
+        <name>chrome_preferences</name>
+        <page display_value="Tech Hire">4a0396e7020d5650111084d005574a6f</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 01:22:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>820396e76c0d5650a0f5bb176d588a5e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_preferences</sys_name>
+        <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_update_name>sys_ux_page_property_820396e76c0d5650a0f5bb176d588a5e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 01:22:48</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1229582_tech_h_0.4a0396e7020d5650111084d005574a6f.root.chrome_preferences</unique_name>
+        <value>[&#13;
+  "workspace.notifications.inbox.desktop",&#13;
+  "workspace.notifications.inbox.audio",&#13;
+  "workspace.notifications.chat.desktop",&#13;
+  "workspace.notifications.chat.audio",&#13;
+  "workspace.showRibbon",&#13;
+  "workspace.showAgentAssist",&#13;
+  "workspace.wrapListText",&#13;
+  "workspace.notifications.showPopups",&#13;
+  "workspace.notifications.showBadgeCount",&#13;
+  "rowcount",&#13;
+  "ts.match",&#13;
+  "glide.ui.accessibility",&#13;
+  "glide.ui.report.accessibility.patterns",&#13;
+  "glide.ui.date_format",&#13;
+  "list_export.deliveryType",&#13;
+  "list_export.orientationType",&#13;
+  "list_export.fileType",&#13;
+  "list_export.email"&#13;
+]</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=820396e76c0d5650a0f5bb176d588a5e"/>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</application>
+        <file_path/>
+        <instance_id>54a6739fdb86fd14f697684e139619f1</instance_id>
+        <instance_name>dev196913</instance_name>
+        <name>sys_ux_page_property_820396e76c0d5650a0f5bb176d588a5e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>User Preferences</description>
+        <name>chrome_preferences</name>
+        <page display_value="Tech Hire">4a0396e7020d5650111084d005574a6f</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 01:22:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>820396e76c0d5650a0f5bb176d588a5e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_preferences</sys_name>
+        <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_update_name>sys_ux_page_property_820396e76c0d5650a0f5bb176d588a5e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 01:22:48</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1229582_tech_h_0.4a0396e7020d5650111084d005574a6f.root.chrome_preferences</unique_name>
+        <value>[&#13;
+  "workspace.notifications.inbox.desktop",&#13;
+  "workspace.notifications.inbox.audio",&#13;
+  "workspace.notifications.chat.desktop",&#13;
+  "workspace.notifications.chat.audio",&#13;
+  "workspace.showRibbon",&#13;
+  "workspace.showAgentAssist",&#13;
+  "workspace.wrapListText",&#13;
+  "workspace.notifications.showPopups",&#13;
+  "workspace.notifications.showBadgeCount",&#13;
+  "rowcount",&#13;
+  "ts.match",&#13;
+  "glide.ui.accessibility",&#13;
+  "glide.ui.report.accessibility.patterns",&#13;
+  "glide.ui.date_format",&#13;
+  "list_export.deliveryType",&#13;
+  "list_export.orientationType",&#13;
+  "list_export.fileType",&#13;
+  "list_export.email"&#13;
+]</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=820396e76c0d5650a0f5bb176d588a5e"/>
+</record_update>]]></payload>
+        <payload_hash>292778910</payload_hash>
+        <record_name>chrome_preferences</record_name>
+        <reverted_from/>
+        <source>fd2eea6b830596506bf6ba29feaad32b</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 03:22:07</sys_created_on>
+        <sys_id>6e5ea22f830596506bf6ba29feaad3f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1927999113c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 03:22:07</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>2a5ea22f6e059650c24efd3c4816b5f1</update_guid>
+        <update_guid_history>2a5ea22f6e059650c24efd3c4816b5f1:0,0b182e2fe3419650f8a00b21d84c53dd:-1900503351,4f182e2f5541965095f45cf0b0fa64d9:-2127285928</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 12:23:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>6de4adc400d84c12bc1f9c3e54923f64</sys_id>
+        <sys_metadata>820396e76c0d5650a0f5bb176d588a5e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_preferences</sys_name>
+        <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_scope_delete display_value="">bcf4d85c582b43c4969a1f41fad23b10</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_820396e76c0d5650a0f5bb176d588a5e</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_820396e76c0d5650a0f5bb176d588a5e">6e5ea22f830596506bf6ba29feaad3f1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 12:23:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="DELETE">
+        <active>true</active>
+        <conditions/>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <isolate_script>true</isolate_script>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>200</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>true</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+if (gs.hasRole('x_1229582_tech_h_0.atendente do sistema')) {
+    g_form.setDisplay('entrevista_tecnica', false);
+	g_form.setDisplay('entrevista_tecnica_aprovada_pelo_candidato', false);
+} else {}
+}]]></script_true>
+        <set_values/>
+        <short_description>Ajustes para a role de atendentes de sistema</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-10 20:49:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6d349de7838516506bf6ba29feaad30b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Ajustes para a role de atendentes de sistema</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_update_name>sys_ui_policy_6d349de7838516506bf6ba29feaad30b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-10 20:57:58</sys_updated_on>
+        <table>x_1229582_tech_h_0_candidaturas</table>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_ui_policy>
+    <sys_es_latest_script action="DELETE">
+        <id>6d349de7838516506bf6ba29feaad30b</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-10 20:49:18</sys_created_on>
+        <sys_id>e474d16f834516506bf6ba29feaad3dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-10 20:49:18</sys_updated_on>
+        <table>sys_ui_policy</table>
+        <use_es_latest>false</use_es_latest>
+    </sys_es_latest_script>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</application>
+        <file_path/>
+        <instance_id>54a6739fdb86fd14f697684e139619f1</instance_id>
+        <instance_name>dev196913</instance_name>
+        <name>sys_ui_policy_6d349de7838516506bf6ba29feaad30b</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_policy"&gt;
+    &lt;sys_ui_policy action="INSERT_OR_UPDATE"&gt;
+        &lt;active&gt;true&lt;/active&gt;
+        &lt;conditions/&gt;
+        &lt;description/&gt;
+        &lt;global&gt;true&lt;/global&gt;
+        &lt;inherit&gt;false&lt;/inherit&gt;
+        &lt;isolate_script&gt;true&lt;/isolate_script&gt;
+        &lt;model_id/&gt;
+        &lt;model_table/&gt;
+        &lt;on_load&gt;true&lt;/on_load&gt;
+        &lt;order&gt;200&lt;/order&gt;
+        &lt;reverse_if_false&gt;true&lt;/reverse_if_false&gt;
+        &lt;run_scripts&gt;true&lt;/run_scripts&gt;
+        &lt;script_false&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_false&gt;
+        &lt;script_true&gt;&lt;![CDATA[function onCondition() {
+if (gs.hasRole('x_1229582_tech_h_0.atendente do sistema')) {
+    g_form.setDisplay('entrevista_tecnica', false);
+	g_form.setDisplay('entrevista_tecnica_aprovada_pelo_candidato', false);
+} else {}
+}]]&gt;&lt;/script_true&gt;
+        &lt;set_values/&gt;
+        &lt;short_description&gt;Ajustes para a role de atendentes de sistema&lt;/short_description&gt;
+        &lt;sys_class_name&gt;sys_ui_policy&lt;/sys_class_name&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2024-10-10 20:49:19&lt;/sys_created_on&gt;
+        &lt;sys_domain&gt;global&lt;/sys_domain&gt;
+        &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
+        &lt;sys_id&gt;6d349de7838516506bf6ba29feaad30b&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;
+        &lt;sys_name&gt;Ajustes para a role de atendentes de sistema&lt;/sys_name&gt;
+        &lt;sys_overrides/&gt;
+        &lt;sys_package display_value="Tech Hire" source="x_1229582_tech_h_0"&gt;a705ea6683c112106bf6ba29feaad36a&lt;/sys_package&gt;
+        &lt;sys_policy/&gt;
+        &lt;sys_scope display_value="Tech Hire"&gt;a705ea6683c112106bf6ba29feaad36a&lt;/sys_scope&gt;
+        &lt;sys_update_name&gt;sys_ui_policy_6d349de7838516506bf6ba29feaad30b&lt;/sys_update_name&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2024-10-10 20:57:58&lt;/sys_updated_on&gt;
+        &lt;table&gt;x_1229582_tech_h_0_candidaturas&lt;/table&gt;
+        &lt;ui_type&gt;0&lt;/ui_type&gt;
+        &lt;view/&gt;
+    &lt;/sys_ui_policy&gt;
+    &lt;sys_es_latest_script action="INSERT_OR_UPDATE"&gt;
+        &lt;id&gt;6d349de7838516506bf6ba29feaad30b&lt;/id&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2024-10-10 20:49:18&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;e474d16f834516506bf6ba29feaad3dc&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2024-10-10 20:49:18&lt;/sys_updated_on&gt;
+        &lt;table&gt;sys_ui_policy&lt;/table&gt;
+        &lt;use_es_latest&gt;false&lt;/use_es_latest&gt;
+    &lt;/sys_es_latest_script&gt;
+&lt;/record_update&gt;</payload>
+        <payload_hash>-1529814997</payload_hash>
+        <record_name>Ajustes para a role de atendentes de sistema</record_name>
+        <reverted_from/>
+        <source>fd2eea6b830596506bf6ba29feaad32b</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 03:22:00</sys_created_on>
+        <sys_id>f45e2eeb830596506bf6ba29feaad39e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1927998f6230000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 03:22:00</sys_updated_on>
+        <type>UI Policy</type>
+        <update_guid>b05e2eeb9b059650462ca3668854b69e</update_guid>
+        <update_guid_history>b05e2eeb9b059650462ca3668854b69e:0,ff9c66ab3fc196501ddcacb755353713:402393480,d3669de765c51650a27db4f841400e9d:-854487257,ec745d672e85165063e6f2539d7057b7:-140205142</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-15 19:17:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy">sys_ui_policy</sys_db_object>
+        <sys_id>2d20a821764e432ea402c136bd23f3d1</sys_id>
+        <sys_metadata>6d349de7838516506bf6ba29feaad30b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ajustes para a role de atendentes de sistema</sys_name>
+        <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+        <sys_parent display_value="Candidaturas">ccdab23e838596106bf6ba29feaad397</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_scope_delete display_value="">bcf4d85c582b43c4969a1f41fad23b10</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_6d349de7838516506bf6ba29feaad30b</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_6d349de7838516506bf6ba29feaad30b">f45e2eeb830596506bf6ba29feaad39e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-15 19:17:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

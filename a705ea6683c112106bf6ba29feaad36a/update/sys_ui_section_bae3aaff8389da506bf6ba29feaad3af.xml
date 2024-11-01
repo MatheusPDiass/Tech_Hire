@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="New section 1" section_id="bae3aaff8389da506bf6ba29feaad3af" sys_domain="global" table="x_1229582_tech_h_0_candidaturas" version="3" view="workspace-tech-hire-2">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>entrevista_pessoal</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-11 21:15:00</sys_created_on>
+            <sys_id>76e36eff8389da506bf6ba29feaad3b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1229582_tech_h_0_candidaturas" sys_domain="global" view="377ae4f7a1415a508fa2681c12cfa0bd">bae3aaff8389da506bf6ba29feaad3af</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-11 21:15:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>entrevista_pessoal_aprovada_pelo_candidato</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-11 21:15:01</sys_created_on>
+            <sys_id>b2e36eff8389da506bf6ba29feaad3b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1229582_tech_h_0_candidaturas" sys_domain="global" view="377ae4f7a1415a508fa2681c12cfa0bd">bae3aaff8389da506bf6ba29feaad3af</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-11 21:15:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>entrevista_tecnica</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-11 21:15:01</sys_created_on>
+            <sys_id>fae36eff8389da506bf6ba29feaad3b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1229582_tech_h_0_candidaturas" sys_domain="global" view="377ae4f7a1415a508fa2681c12cfa0bd">bae3aaff8389da506bf6ba29feaad3af</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-11 21:15:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sugestao_entrevista_pessoal</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-11 21:15:01</sys_created_on>
+            <sys_id>f2e36eff8389da506bf6ba29feaad3b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1229582_tech_h_0_candidaturas" sys_domain="global" view="377ae4f7a1415a508fa2681c12cfa0bd">bae3aaff8389da506bf6ba29feaad3af</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-11 21:15:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>entrevista_tecnica_aprovada_pelo_candidato</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-11 21:15:01</sys_created_on>
+            <sys_id>fae36eff8389da506bf6ba29feaad3b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1229582_tech_h_0_candidaturas" sys_domain="global" view="377ae4f7a1415a508fa2681c12cfa0bd">bae3aaff8389da506bf6ba29feaad3af</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-11 21:15:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>New section 1</caption>
+            <header>false</header>
+            <name>x_1229582_tech_h_0_candidaturas</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-11 21:15:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bae3aaff8389da506bf6ba29feaad3af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1229582_tech_h_0_candidaturas</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+            <sys_update_name>sys_ui_section_bae3aaff8389da506bf6ba29feaad3af</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-11 21:15:00</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace Tech Hire 2" name="workspace-tech-hire-2">377ae4f7a1415a508fa2681c12cfa0bd</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

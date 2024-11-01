@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>Tabs Configuration</description>
+        <name>chrome_tab</name>
+        <page display_value="Tech Hire">4a0396e7020d5650111084d005574a6f</page>
+        <required_translations>[ {
+  "message" : "New Candidatos ",
+  "comment" : ""
+}, {
+  "message" : "New Candidaturas",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 01:22:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>020396e7920d565026432bf6f1bfc060</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_update_name>sys_ux_page_property_020396e7920d565026432bf6f1bfc060</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 01:22:53</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1229582_tech_h_0.4a0396e7020d5650111084d005574a6f.root.global.chrome_tab</unique_name>
+        <value>{"contextual":["record"],"newTabMenu":[{"label":{"translatable":true,"message":"New Candidatos "},"routeInfo":{"route":"record","fields":{"table":"x_1229582_tech_h_0_candidatos","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1229582_tech_h_0_candidatos","canCreate":true}}},{"label":{"translatable":true,"message":"New Candidaturas"},"routeInfo":{"route":"record","fields":{"table":"x_1229582_tech_h_0_candidaturas","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1229582_tech_h_0_candidaturas","canCreate":true}}}],"maxMainTabLimit":10,"maxTotalSubTabLimit":30}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=020396e7920d565026432bf6f1bfc060"/>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</application>
+        <file_path/>
+        <instance_id>54a6739fdb86fd14f697684e139619f1</instance_id>
+        <instance_name>dev196913</instance_name>
+        <name>sys_ux_page_property_020396e7920d565026432bf6f1bfc060</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Tabs Configuration</description>
+        <name>chrome_tab</name>
+        <page display_value="Tech Hire">4a0396e7020d5650111084d005574a6f</page>
+        <required_translations>[ {
+  "message" : "New Candidatos ",
+  "comment" : ""
+}, {
+  "message" : "New Candidaturas",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 01:22:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>020396e7920d565026432bf6f1bfc060</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_update_name>sys_ux_page_property_020396e7920d565026432bf6f1bfc060</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 01:22:53</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1229582_tech_h_0.4a0396e7020d5650111084d005574a6f.root.global.chrome_tab</unique_name>
+        <value>{"contextual":["record"],"newTabMenu":[{"label":{"translatable":true,"message":"New Candidatos "},"routeInfo":{"route":"record","fields":{"table":"x_1229582_tech_h_0_candidatos","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1229582_tech_h_0_candidatos","canCreate":true}}},{"label":{"translatable":true,"message":"New Candidaturas"},"routeInfo":{"route":"record","fields":{"table":"x_1229582_tech_h_0_candidaturas","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1229582_tech_h_0_candidaturas","canCreate":true}}}],"maxMainTabLimit":10,"maxTotalSubTabLimit":30}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=020396e7920d565026432bf6f1bfc060"/>
+</record_update>]]></payload>
+        <payload_hash>-453426364</payload_hash>
+        <record_name>chrome_tab</record_name>
+        <reverted_from/>
+        <source>fd2eea6b830596506bf6ba29feaad32b</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 03:22:07</sys_created_on>
+        <sys_id>ea5ea22f830596506bf6ba29feaad379</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192799910260000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 03:22:07</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>a65ea22f810596502924d40e25c78c79</update_guid>
+        <update_guid_history>a65ea22f810596502924d40e25c78c79:0,b6182e2f94419650a635f5e5449c2396:904109815,fb031ae76b0d5650b4f0bdd35e8164a4:-1661190890,b3031ae7bb0d5650496b7adfad6ac5a3:776765659</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 12:23:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>19ab0e822d9d479884722e60eec89559</sys_id>
+        <sys_metadata>020396e7920d565026432bf6f1bfc060</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_scope_delete display_value="">bcf4d85c582b43c4969a1f41fad23b10</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_020396e7920d565026432bf6f1bfc060</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_020396e7920d565026432bf6f1bfc060">ea5ea22f830596506bf6ba29feaad379</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 12:23:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

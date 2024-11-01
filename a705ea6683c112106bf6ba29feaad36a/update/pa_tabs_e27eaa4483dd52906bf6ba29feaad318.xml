@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="New Tab 1">527e2ec8839d52906bf6ba29feaad36c</canvas_page>
+        <name>New Tab 1</name>
+        <page display_value="New Tab 1">9e7e2ec8839d52906bf6ba29feaad369</page>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-12 16:39:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e27eaa4483dd52906bf6ba29feaad318</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>New Tab 1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_update_name>pa_tabs_e27eaa4483dd52906bf6ba29feaad318</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-12 16:40:12</sys_updated_on>
+    </pa_tabs>
+</record_update>

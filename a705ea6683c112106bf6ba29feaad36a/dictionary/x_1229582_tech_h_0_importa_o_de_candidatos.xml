@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b1532ae8831956106bf6ba29feaad32f" extends="sys_import_set_row" label="Importação de candidatos" max_length="40" name="x_1229582_tech_h_0_importa_o_de_candidatos" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=formacao_academica" label="formacao_academica" max_length="40" name="u_formacao_academica" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Telefone / Celular" label="Telefone / Celular" max_length="40" name="u_telefone___celular" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=endereco_completo" label="endereco_completo" max_length="40" name="u_endereco_completo" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Data de nascimento" label="Data de nascimento" max_length="40" name="u_data_de_nascimento" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Nome Completo" label="Nome Completo" max_length="40" name="u_nome_completo" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=CPF" label="CPF" max_length="40" name="u_cpf" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=experiencias_profissionais" label="experiencias_profissionais" max_length="40" name="u_experiencias_profissionais" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Habilidades e competencias" label="Habilidades e competencias" max_length="53" name="u_habilidades_e_competencias" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Nacionalidade" label="Nacionalidade" max_length="40" name="u_nacionalidade" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Idiomas" label="Idiomas" max_length="40" name="u_idiomas" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=pretensao_salarial" label="pretensao_salarial" max_length="40" name="u_pretensao_salarial" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Email" label="Email" max_length="40" name="u_email" type="string"/>
+    </element>
+</database>

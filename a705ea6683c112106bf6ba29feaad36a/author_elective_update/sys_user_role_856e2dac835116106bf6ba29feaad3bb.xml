@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_1229582_tech_h_0.sdf</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>sdf</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-14 01:16:46</sys_created_on>
+        <sys_id>856e2dac835116106bf6ba29feaad3bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1229582_tech_h_0.sdf</sys_name>
+        <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_update_name>sys_user_role_856e2dac835116106bf6ba29feaad3bb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-14 01:16:46</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</application>
+        <file_path/>
+        <instance_id>54a6739fdb86fd14f697684e139619f1</instance_id>
+        <instance_name>dev196913</instance_name>
+        <name>sys_user_role_856e2dac835116106bf6ba29feaad3bb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_1229582_tech_h_0.sdf</name><scoped_admin>false</scoped_admin><suffix>sdf</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-14 01:16:46</sys_created_on><sys_id>856e2dac835116106bf6ba29feaad3bb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1229582_tech_h_0.sdf</sys_name><sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package><sys_policy/><sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope><sys_update_name>sys_user_role_856e2dac835116106bf6ba29feaad3bb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-14 01:16:46</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>313090148</payload_hash>
+        <record_name>x_1229582_tech_h_0.sdf</record_name>
+        <reverted_from/>
+        <source>1e8e666b830596506bf6ba29feaad3f2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-14 01:16:47</sys_created_on>
+        <sys_id>736ee5a0839116106bf6ba29feaad397</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192889964870000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-14 01:16:47</sys_updated_on>
+        <type>Role</type>
+        <update_guid>776ee5a00d9116104672b17f5564f396</update_guid>
+        <update_guid_history>776ee5a00d9116104672b17f5564f396:313090148</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1229582_tech_h_0.sdf">127ea9ec835116106bf6ba29feaad329</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-14 01:16:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>31f8be16e434430499ac12f610cf0984</sys_id>
+        <sys_metadata>856e2dac835116106bf6ba29feaad3bb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1229582_tech_h_0.sdf</sys_name>
+        <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_scope_delete display_value="">bcf4d85c582b43c4969a1f41fad23b10</sys_scope_delete>
+        <sys_update_name>sys_user_role_856e2dac835116106bf6ba29feaad3bb</sys_update_name>
+        <sys_update_version display_value="sys_user_role_856e2dac835116106bf6ba29feaad3bb">736ee5a0839116106bf6ba29feaad397</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-14 01:16:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

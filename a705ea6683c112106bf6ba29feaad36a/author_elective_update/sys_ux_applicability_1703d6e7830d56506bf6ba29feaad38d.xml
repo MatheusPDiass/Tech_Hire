@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="DELETE">
+        <active>true</active>
+        <api_name>x_1229582_tech_h_0.Audience for app tech-hire</api_name>
+        <description/>
+        <name>Audience for app tech-hire</name>
+        <role_names/>
+        <roles>3f05ea6683c112106bf6ba29feaad3aa,7d7a69f2830916106bf6ba29feaad3c0,0b4a2936838516106bf6ba29feaad378,2faaa5f2830916106bf6ba29feaad39e,3b05ea6683c112106bf6ba29feaad3d7</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 01:22:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1703d6e7830d56506bf6ba29feaad38d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app tech-hire</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_update_name>sys_ux_applicability_1703d6e7830d56506bf6ba29feaad38d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 01:22:50</sys_updated_on>
+    </sys_ux_applicability>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</application>
+        <file_path/>
+        <instance_id>54a6739fdb86fd14f697684e139619f1</instance_id>
+        <instance_name>dev196913</instance_name>
+        <name>sys_ux_applicability_1703d6e7830d56506bf6ba29feaad38d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_1229582_tech_h_0.Audience for app tech-hire</api_name>
+        <description/>
+        <name>Audience for app tech-hire</name>
+        <role_names/>
+        <roles>3f05ea6683c112106bf6ba29feaad3aa,7d7a69f2830916106bf6ba29feaad3c0,0b4a2936838516106bf6ba29feaad378,2faaa5f2830916106bf6ba29feaad39e,3b05ea6683c112106bf6ba29feaad3d7</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 01:22:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1703d6e7830d56506bf6ba29feaad38d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app tech-hire</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_update_name>sys_ux_applicability_1703d6e7830d56506bf6ba29feaad38d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 01:22:50</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>]]></payload>
+        <payload_hash>-265587403</payload_hash>
+        <record_name>Audience for app tech-hire</record_name>
+        <reverted_from/>
+        <source>fd2eea6b830596506bf6ba29feaad32b</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 03:22:04</sys_created_on>
+        <sys_id>315eeeeb830596506bf6ba29feaad3eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192799905390000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 03:22:04</sys_updated_on>
+        <type>Audience</type>
+        <update_guid>b95eeeeba1059650750ca1ff5e2731ea</update_guid>
+        <update_guid_history>b95eeeeba1059650750ca1ff5e2731ea:0,3a182e2fcf419650b5d21ffa57049383:377315317,5703d6e7bd0d565058a29558be35b890:1350755933</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 12:23:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_applicability">sys_ux_applicability</sys_db_object>
+        <sys_id>03dfcae9124a46f481b1225226176990</sys_id>
+        <sys_metadata>1703d6e7830d56506bf6ba29feaad38d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app tech-hire</sys_name>
+        <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_scope_delete display_value="">bcf4d85c582b43c4969a1f41fad23b10</sys_scope_delete>
+        <sys_update_name>sys_ux_applicability_1703d6e7830d56506bf6ba29feaad38d</sys_update_name>
+        <sys_update_version display_value="sys_ux_applicability_1703d6e7830d56506bf6ba29feaad38d">315eeeeb830596506bf6ba29feaad3eb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 12:23:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

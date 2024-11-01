@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="sugestao_entrevista_pessoal" label="Sugestão entrevista pessoal" language="en" table="x_1229582_tech_h_0_candidaturas">
+    <sys_documentation element="sugestao_entrevista_pessoal" label="Sugestão entrevista pessoal data" language="en" table="x_1229582_tech_h_0_candidaturas">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>sugestao_entrevista_pessoal</element>
             <help/>
             <hint/>
-            <label>Sugestão entrevista pessoal</label>
+            <label>Sugestão entrevista pessoal data</label>
             <language>en</language>
             <name>x_1229582_tech_h_0_candidaturas</name>
             <plural/>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-10-09 13:56:37</sys_created_on>
-            <sys_mod_count>3</sys_mod_count>
-            <sys_name>Sugestão entrevista pessoal</sys_name>
+            <sys_mod_count>9</sys_mod_count>
+            <sys_name>Sugestão entrevista pessoal data</sys_name>
             <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
             <sys_policy/>
             <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
             <sys_update_name>sys_documentation_x_1229582_tech_h_0_candidaturas_sugestao_entrevista_pessoal_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-09 13:56:37</sys_updated_on>
+            <sys_updated_on>2024-10-11 23:49:07</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

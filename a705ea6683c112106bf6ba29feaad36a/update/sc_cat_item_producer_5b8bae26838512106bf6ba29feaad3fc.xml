@@ -31,7 +31,7 @@
         <mobile_picture/>
         <mobile_picture_type>use_desktop_picture</mobile_picture_type>
         <model/>
-        <name>Inscrições de Candidatos</name>
+        <name>Inscrição de candidato</name>
         <no_attachment_v2>false</no_attachment_v2>
         <no_cart>false</no_cart>
         <no_cart_v2>false</no_cart_v2>
@@ -81,7 +81,7 @@
 * Avoid `current.setAbortAction()` and generate a separate record
 * Use `producer.var1` to access variables
 */]]></script>
-        <short_description>Espaço para que os candidatos possam fazer as suas inscrições.</short_description>
+        <short_description/>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
         <state/>
@@ -89,14 +89,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-10-08 00:35:57</sys_created_on>
         <sys_id>5b8bae26838512106bf6ba29feaad3fc</sys_id>
-        <sys_mod_count>51</sys_mod_count>
-        <sys_name>Inscrições de Candidatos</sys_name>
+        <sys_mod_count>55</sys_mod_count>
+        <sys_name>Inscrição de candidato</sys_name>
         <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
         <sys_update_name>sc_cat_item_producer_5b8bae26838512106bf6ba29feaad3fc</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2024-10-08 20:08:37</sys_updated_on>
+        <sys_updated_on>2024-10-11 21:07:36</sys_updated_on>
         <table_name>x_1229582_tech_h_0_candidatos</table_name>
         <taxonomy_topic/>
         <template/>
@@ -104,7 +104,7 @@
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
-        <version>51</version>
+        <version>55</version>
         <view/>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>

@@ -3,107 +3,242 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="x_1229582_tech_h_0_candidaturas" element="NULL" name="x_1229582_tech_h_0_candidaturas" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6bad2f3283c5d6106bf6ba29feaad38a</list_id>
+            <list_id display_value="x_1229582_tech_h_0_candidaturas" element="NULL" name="x_1229582_tech_h_0_candidaturas" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5e4eeea8839d56106bf6ba29feaad37a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-09 00:03:22</sys_created_on>
-            <sys_id>63ad2f3283c5d6106bf6ba29feaad38c</sys_id>
+            <sys_created_on>2024-10-14 05:55:44</sys_created_on>
+            <sys_id>9a4eeea8839d56106bf6ba29feaad37b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-09 00:03:22</sys_updated_on>
+            <sys_updated_on>2024-10-14 05:55:44</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>priority</element>
-            <list_id display_value="x_1229582_tech_h_0_candidaturas" element="NULL" name="x_1229582_tech_h_0_candidaturas" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6bad2f3283c5d6106bf6ba29feaad38a</list_id>
+            <element>candidato.nome_completo</element>
+            <list_id display_value="x_1229582_tech_h_0_candidaturas" element="NULL" name="x_1229582_tech_h_0_candidaturas" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5e4eeea8839d56106bf6ba29feaad37a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-09 00:03:22</sys_created_on>
-            <sys_id>6bad2f3283c5d6106bf6ba29feaad38c</sys_id>
+            <sys_created_on>2024-10-14 05:55:44</sys_created_on>
+            <sys_id>9e4eeea8839d56106bf6ba29feaad37b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-09 00:03:22</sys_updated_on>
+            <sys_updated_on>2024-10-14 05:55:44</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>state</element>
-            <list_id display_value="x_1229582_tech_h_0_candidaturas" element="NULL" name="x_1229582_tech_h_0_candidaturas" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6bad2f3283c5d6106bf6ba29feaad38a</list_id>
+            <list_id display_value="x_1229582_tech_h_0_candidaturas" element="NULL" name="x_1229582_tech_h_0_candidaturas" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5e4eeea8839d56106bf6ba29feaad37a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-09 00:03:22</sys_created_on>
-            <sys_id>6fad2f3283c5d6106bf6ba29feaad38c</sys_id>
+            <sys_created_on>2024-10-14 05:55:44</sys_created_on>
+            <sys_id>924eeea8839d56106bf6ba29feaad37c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-09 00:03:22</sys_updated_on>
+            <sys_updated_on>2024-10-14 05:55:44</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>assigned_to</element>
-            <list_id display_value="x_1229582_tech_h_0_candidaturas" element="NULL" name="x_1229582_tech_h_0_candidaturas" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6bad2f3283c5d6106bf6ba29feaad38a</list_id>
+            <element>departamento</element>
+            <list_id display_value="x_1229582_tech_h_0_candidaturas" element="NULL" name="x_1229582_tech_h_0_candidaturas" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5e4eeea8839d56106bf6ba29feaad37a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-09 00:03:22</sys_created_on>
-            <sys_id>63ad2f3283c5d6106bf6ba29feaad38d</sys_id>
+            <sys_created_on>2024-10-14 05:55:44</sys_created_on>
+            <sys_id>964eeea8839d56106bf6ba29feaad37c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-09 00:03:22</sys_updated_on>
+            <sys_updated_on>2024-10-14 05:55:44</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>short_description</element>
-            <list_id display_value="x_1229582_tech_h_0_candidaturas" element="NULL" name="x_1229582_tech_h_0_candidaturas" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6bad2f3283c5d6106bf6ba29feaad38a</list_id>
+            <element>entrevista_pessoal</element>
+            <list_id display_value="x_1229582_tech_h_0_candidaturas" element="NULL" name="x_1229582_tech_h_0_candidaturas" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5e4eeea8839d56106bf6ba29feaad37a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-09 00:03:22</sys_created_on>
-            <sys_id>67ad2f3283c5d6106bf6ba29feaad38d</sys_id>
+            <sys_created_on>2024-10-14 05:55:44</sys_created_on>
+            <sys_id>9a4eeea8839d56106bf6ba29feaad37c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-09 00:03:22</sys_updated_on>
+            <sys_updated_on>2024-10-14 05:55:44</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>sys_class_name</element>
-            <list_id display_value="x_1229582_tech_h_0_candidaturas" element="NULL" name="x_1229582_tech_h_0_candidaturas" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6bad2f3283c5d6106bf6ba29feaad38a</list_id>
+            <element>entrevista_pessoal_horario</element>
+            <list_id display_value="x_1229582_tech_h_0_candidaturas" element="NULL" name="x_1229582_tech_h_0_candidaturas" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5e4eeea8839d56106bf6ba29feaad37a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-09 00:03:22</sys_created_on>
-            <sys_id>6bad2f3283c5d6106bf6ba29feaad38d</sys_id>
+            <sys_created_on>2024-10-14 05:55:44</sys_created_on>
+            <sys_id>9e4eeea8839d56106bf6ba29feaad37c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-09 00:03:22</sys_updated_on>
+            <sys_updated_on>2024-10-14 05:55:44</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>candidato.nome_completo</element>
-            <list_id display_value="x_1229582_tech_h_0_candidaturas" element="NULL" name="x_1229582_tech_h_0_candidaturas" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6bad2f3283c5d6106bf6ba29feaad38a</list_id>
+            <element>entrevista_pessoal_aprovada_pelo_candidato</element>
+            <list_id display_value="x_1229582_tech_h_0_candidaturas" element="NULL" name="x_1229582_tech_h_0_candidaturas" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5e4eeea8839d56106bf6ba29feaad37a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-09 00:03:22</sys_created_on>
-            <sys_id>6fad2f3283c5d6106bf6ba29feaad38d</sys_id>
+            <sys_created_on>2024-10-14 05:55:44</sys_created_on>
+            <sys_id>924eeea8839d56106bf6ba29feaad37d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-09 00:03:22</sys_updated_on>
+            <sys_updated_on>2024-10-14 05:55:44</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>entrevista_pessoal_realizada</element>
+            <list_id display_value="x_1229582_tech_h_0_candidaturas" element="NULL" name="x_1229582_tech_h_0_candidaturas" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5e4eeea8839d56106bf6ba29feaad37a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-14 05:55:44</sys_created_on>
+            <sys_id>964eeea8839d56106bf6ba29feaad37d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-14 05:55:44</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sugestao_entrevista_pessoal</element>
+            <list_id display_value="x_1229582_tech_h_0_candidaturas" element="NULL" name="x_1229582_tech_h_0_candidaturas" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5e4eeea8839d56106bf6ba29feaad37a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-14 05:55:45</sys_created_on>
+            <sys_id>9a4eeea8839d56106bf6ba29feaad37d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-14 05:55:45</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sugestao_entrevista_pessoal_data</element>
+            <list_id display_value="x_1229582_tech_h_0_candidaturas" element="NULL" name="x_1229582_tech_h_0_candidaturas" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5e4eeea8839d56106bf6ba29feaad37a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-14 05:55:45</sys_created_on>
+            <sys_id>9e4eeea8839d56106bf6ba29feaad37d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-14 05:55:45</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>aprovacao_de_sugestao_atendente</element>
+            <list_id display_value="x_1229582_tech_h_0_candidaturas" element="NULL" name="x_1229582_tech_h_0_candidaturas" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5e4eeea8839d56106bf6ba29feaad37a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>10</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-14 05:55:45</sys_created_on>
+            <sys_id>924eeea8839d56106bf6ba29feaad37e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-14 05:55:45</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>entrevista_tecnica</element>
+            <list_id display_value="x_1229582_tech_h_0_candidaturas" element="NULL" name="x_1229582_tech_h_0_candidaturas" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5e4eeea8839d56106bf6ba29feaad37a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>11</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-14 05:55:45</sys_created_on>
+            <sys_id>964eeea8839d56106bf6ba29feaad37e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-14 05:55:45</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>entrevista_tecnica_horario</element>
+            <list_id display_value="x_1229582_tech_h_0_candidaturas" element="NULL" name="x_1229582_tech_h_0_candidaturas" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5e4eeea8839d56106bf6ba29feaad37a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>12</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-14 05:55:45</sys_created_on>
+            <sys_id>9a4eeea8839d56106bf6ba29feaad37e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-14 05:55:45</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>entrevista_tecnica_aprovada_pelo_candidato</element>
+            <list_id display_value="x_1229582_tech_h_0_candidaturas" element="NULL" name="x_1229582_tech_h_0_candidaturas" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5e4eeea8839d56106bf6ba29feaad37a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>13</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-14 05:55:45</sys_created_on>
+            <sys_id>9e4eeea8839d56106bf6ba29feaad37e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-14 05:55:45</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>aprovacao_do_candidato</element>
+            <list_id display_value="x_1229582_tech_h_0_candidaturas" element="NULL" name="x_1229582_tech_h_0_candidaturas" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5e4eeea8839d56106bf6ba29feaad37a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>14</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-14 05:55:45</sys_created_on>
+            <sys_id>924eeea8839d56106bf6ba29feaad37f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-14 05:55:45</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>comentarios_email_final</element>
+            <list_id display_value="x_1229582_tech_h_0_candidaturas" element="NULL" name="x_1229582_tech_h_0_candidaturas" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5e4eeea8839d56106bf6ba29feaad37a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>15</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-14 05:55:45</sys_created_on>
+            <sys_id>964eeea8839d56106bf6ba29feaad37f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-14 05:55:45</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -117,10 +252,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-09 00:03:22</sys_created_on>
+            <sys_created_on>2024-10-14 05:55:44</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>6bad2f3283c5d6106bf6ba29feaad38a</sys_id>
+            <sys_id>5e4eeea8839d56106bf6ba29feaad37a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_1229582_tech_h_0_candidaturas</sys_name>
             <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
@@ -128,7 +263,7 @@
             <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
             <sys_update_name>sys_ui_list_x_1229582_tech_h_0_candidaturas_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-09 00:03:22</sys_updated_on>
+            <sys_updated_on>2024-10-14 05:55:44</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

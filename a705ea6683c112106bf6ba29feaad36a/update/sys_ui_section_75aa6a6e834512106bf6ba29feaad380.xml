@@ -4,13 +4,13 @@
             <element>experiencias_profissionais</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-08 00:32:02</sys_created_on>
-            <sys_id>42aa6a6e834512106bf6ba29feaad3ff</sys_id>
+            <sys_created_on>2024-10-11 20:05:26</sys_created_on>
+            <sys_id>2bf312ff83c1da506bf6ba29feaad3e9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Currículo" display_value="Currículo" name="x_1229582_tech_h_0_candidatos" sys_domain="global" view="Default view">75aa6a6e834512106bf6ba29feaad380</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-08 00:32:02</sys_updated_on>
+            <sys_updated_on>2024-10-11 20:05:26</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,83 +18,97 @@
             <element>formacao_academica</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-08 00:32:02</sys_created_on>
-            <sys_id>c6aa6a6e834512106bf6ba29feaad3ff</sys_id>
+            <sys_created_on>2024-10-11 20:05:26</sys_created_on>
+            <sys_id>23f312ff83c1da506bf6ba29feaad3ea</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Currículo" display_value="Currículo" name="x_1229582_tech_h_0_candidatos" sys_domain="global" view="Default view">75aa6a6e834512106bf6ba29feaad380</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-08 00:32:02</sys_updated_on>
+            <sys_updated_on>2024-10-11 20:05:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>idiomas</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-11 20:05:26</sys_created_on>
+            <sys_id>2bf312ff83c1da506bf6ba29feaad3ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Currículo" display_value="Currículo" name="x_1229582_tech_h_0_candidatos" sys_domain="global" view="Default view">75aa6a6e834512106bf6ba29feaad380</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-11 20:05:26</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>disponibilidade_para_inicio</element>
-            <position>2</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-08 00:32:02</sys_created_on>
-            <sys_id>4eaa6a6e834512106bf6ba29feaad3ff</sys_id>
+            <sys_created_on>2024-10-11 20:05:26</sys_created_on>
+            <sys_id>23f312ff83c1da506bf6ba29feaad3eb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Currículo" display_value="Currículo" name="x_1229582_tech_h_0_candidatos" sys_domain="global" view="Default view">75aa6a6e834512106bf6ba29feaad380</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-08 00:32:02</sys_updated_on>
+            <sys_updated_on>2024-10-11 20:05:26</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>3</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-08 00:32:02</sys_created_on>
-            <sys_id>c2aaaa6e834512106bf6ba29feaad300</sys_id>
+            <sys_created_on>2024-10-11 20:05:26</sys_created_on>
+            <sys_id>2bf312ff83c1da506bf6ba29feaad3eb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Currículo" display_value="Currículo" name="x_1229582_tech_h_0_candidatos" sys_domain="global" view="Default view">75aa6a6e834512106bf6ba29feaad380</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-08 00:32:02</sys_updated_on>
+            <sys_updated_on>2024-10-11 20:05:26</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>habilidades_e_competencias</element>
-            <position>4</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-08 00:32:02</sys_created_on>
-            <sys_id>4aaaaa6e834512106bf6ba29feaad300</sys_id>
+            <sys_created_on>2024-10-11 20:05:26</sys_created_on>
+            <sys_id>63f312ff83c1da506bf6ba29feaad3ec</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Currículo" display_value="Currículo" name="x_1229582_tech_h_0_candidatos" sys_domain="global" view="Default view">75aa6a6e834512106bf6ba29feaad380</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-08 00:32:02</sys_updated_on>
+            <sys_updated_on>2024-10-11 20:05:26</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>pretensao_salarial</element>
-            <position>5</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-08 00:32:02</sys_created_on>
-            <sys_id>ceaaaa6e834512106bf6ba29feaad300</sys_id>
+            <sys_created_on>2024-10-11 20:05:26</sys_created_on>
+            <sys_id>6bf312ff83c1da506bf6ba29feaad3ec</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Currículo" display_value="Currículo" name="x_1229582_tech_h_0_candidatos" sys_domain="global" view="Default view">75aa6a6e834512106bf6ba29feaad380</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-08 00:32:02</sys_updated_on>
+            <sys_updated_on>2024-10-11 20:05:26</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>observacoes</element>
-            <position>6</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-08 00:32:02</sys_created_on>
-            <sys_id>46aaaa6e834512106bf6ba29feaad301</sys_id>
+            <sys_created_on>2024-10-11 20:05:26</sys_created_on>
+            <sys_id>a3f312ff83c1da506bf6ba29feaad3ed</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Currículo" display_value="Currículo" name="x_1229582_tech_h_0_candidatos" sys_domain="global" view="Default view">75aa6a6e834512106bf6ba29feaad380</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-08 00:32:02</sys_updated_on>
+            <sys_updated_on>2024-10-11 20:05:26</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

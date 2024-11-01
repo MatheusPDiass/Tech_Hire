@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>entrevista_tecnica</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-10 20:54:16</sys_created_on>
+        <sys_id>d995596383c516506bf6ba29feaad351</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>entrevista_tecnica</sys_name>
+        <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_update_name>sys_ui_policy_action_d995596383c516506bf6ba29feaad351</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-10 20:54:16</sys_updated_on>
+        <table>x_1229582_tech_h_0_candidaturas</table>
+        <ui_policy display_value="Finalização de processo">316b896783c116506bf6ba29feaad3ce</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+    <sys_translated_text action="DELETE" query="documentkey=d995596383c516506bf6ba29feaad351"/>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</application>
+        <file_path/>
+        <instance_id>54a6739fdb86fd14f697684e139619f1</instance_id>
+        <instance_name>dev196913</instance_name>
+        <name>sys_ui_policy_action_d995596383c516506bf6ba29feaad351</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>entrevista_tecnica</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-10 20:54:16</sys_created_on>
+        <sys_id>d995596383c516506bf6ba29feaad351</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>entrevista_tecnica</sys_name>
+        <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_update_name>sys_ui_policy_action_d995596383c516506bf6ba29feaad351</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-10 20:54:16</sys_updated_on>
+        <table>x_1229582_tech_h_0_candidaturas</table>
+        <ui_policy display_value="Finalização de processo">316b896783c116506bf6ba29feaad3ce</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=d995596383c516506bf6ba29feaad351"/>
+</record_update>]]></payload>
+        <payload_hash>-1550574132</payload_hash>
+        <record_name>entrevista_tecnica</record_name>
+        <reverted_from/>
+        <source>fd2eea6b830596506bf6ba29feaad32b</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 03:22:01</sys_created_on>
+        <sys_id>0d5e6eeb830596506bf6ba29feaad324</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1927998f8a60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 03:22:01</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>c55e6eeb2e05965030b4120ff419b824</update_guid>
+        <update_guid_history>c55e6eeb2e05965030b4120ff419b824:0,919559631bc51650bd551ae303d3f554:936295852</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-15 19:17:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>233e84fc04e446438d8d2ee9a4e7ab19</sys_id>
+        <sys_metadata>d995596383c516506bf6ba29feaad351</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>entrevista_tecnica</sys_name>
+        <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_scope_delete display_value="">bcf4d85c582b43c4969a1f41fad23b10</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_d995596383c516506bf6ba29feaad351</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_d995596383c516506bf6ba29feaad351">0d5e6eeb830596506bf6ba29feaad324</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-15 19:17:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

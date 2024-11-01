@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas">
+    <sys_grid_canvas action="DELETE">
+        <legacy_page display_value="New Tab 2">e20fa60883dd52906bf6ba29feaad317</legacy_page>
+        <name>New Tab 2</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-12 16:42:05</sys_created_on>
+        <sys_id>ee0fa60883dd52906bf6ba29feaad318</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab 2</sys_name>
+        <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_update_name>sys_grid_canvas_ee0fa60883dd52906bf6ba29feaad318</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-12 16:42:05</sys_updated_on>
+    </sys_grid_canvas>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</application>
+        <file_path/>
+        <instance_id>54a6739fdb86fd14f697684e139619f1</instance_id>
+        <instance_name>dev196913</instance_name>
+        <name>sys_grid_canvas_ee0fa60883dd52906bf6ba29feaad318</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas"><sys_grid_canvas action="INSERT_OR_UPDATE"><legacy_page display_value="New Tab 2">e20fa60883dd52906bf6ba29feaad317</legacy_page><name>New Tab 2</name><sys_class_name>sys_grid_canvas</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-12 16:42:05</sys_created_on><sys_id>ee0fa60883dd52906bf6ba29feaad318</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New Tab 2</sys_name><sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package><sys_policy/><sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope><sys_update_name>sys_grid_canvas_ee0fa60883dd52906bf6ba29feaad318</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-12 16:42:05</sys_updated_on></sys_grid_canvas></record_update>]]></payload>
+        <payload_hash>1672599977</payload_hash>
+        <record_name>New Tab 2</record_name>
+        <reverted_from/>
+        <source>1e8e666b830596506bf6ba29feaad3f2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-12 16:42:05</sys_created_on>
+        <sys_id>e20f6e8883dd52906bf6ba29feaad32b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192819bd1a00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-12 16:42:05</sys_updated_on>
+        <type>Grid Canvas</type>
+        <update_guid>e60f6e88fddd5290c25d42ee7df0782a</update_guid>
+        <update_guid_history>e60f6e88fddd5290c25d42ee7df0782a:1672599977</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-12 16:42:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas">sys_grid_canvas</sys_db_object>
+        <sys_id>0532c131872b4d8a82e0d36cef2c2284</sys_id>
+        <sys_metadata>ee0fa60883dd52906bf6ba29feaad318</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab 2</sys_name>
+        <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_scope_delete display_value="">bcf4d85c582b43c4969a1f41fad23b10</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_ee0fa60883dd52906bf6ba29feaad318</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_ee0fa60883dd52906bf6ba29feaad318">e20f6e8883dd52906bf6ba29feaad32b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-12 16:42:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

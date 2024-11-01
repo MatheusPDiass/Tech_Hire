@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="DELETE">
+        <app_config display_value="Tech Hire App Config">4c8ae4f78c415a50e05d9c903702f2c6</app_config>
+        <description/>
+        <extension_point/>
+        <fields>table,sysId</fields>
+        <icon/>
+        <name>Candidatura</name>
+        <optional_parameters>query,views,activityLogs,extraParams,fields,screen,selectedTabIndex,userPrefs</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>candidatura</route_type>
+        <screen_type display_value="Candidatura">3f5c3f7f83c95e506bf6ba29feaad335</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-12 03:41:28</sys_created_on>
+        <sys_id>735c37bf83c95e506bf6ba29feaad388</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Candidatura</sys_name>
+        <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_update_name>sys_ux_app_route_735c37bf83c95e506bf6ba29feaad388</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-12 03:41:50</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="DELETE" query="documentkey=735c37bf83c95e506bf6ba29feaad388"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</application>
+        <file_path/>
+        <instance_id>54a6739fdb86fd14f697684e139619f1</instance_id>
+        <instance_name>dev196913</instance_name>
+        <name>sys_ux_app_route_735c37bf83c95e506bf6ba29feaad388</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route"><sys_ux_app_route action="INSERT_OR_UPDATE"><app_config display_value="Tech Hire App Config">4c8ae4f78c415a50e05d9c903702f2c6</app_config><description/><extension_point/><fields>table,sysId</fields><icon/><name>Candidatura</name><optional_parameters>query,views,activityLogs,extraParams,fields,screen,selectedTabIndex,userPrefs</optional_parameters><order>0</order><parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent><parent_macroponent_composition_element_id/><route_type>candidatura</route_type><screen_type display_value="Candidatura">3f5c3f7f83c95e506bf6ba29feaad335</screen_type><sys_class_name>sys_ux_app_route</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-12 03:41:28</sys_created_on><sys_id>735c37bf83c95e506bf6ba29feaad388</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Candidatura</sys_name><sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package><sys_policy/><sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope><sys_update_name>sys_ux_app_route_735c37bf83c95e506bf6ba29feaad388</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-12 03:41:50</sys_updated_on></sys_ux_app_route><sys_translated_text action="delete_multiple" query="documentkey=735c37bf83c95e506bf6ba29feaad388"/></record_update>]]></payload>
+        <payload_hash>-384812470</payload_hash>
+        <record_name>Candidatura</record_name>
+        <reverted_from/>
+        <source>1e8e666b830596506bf6ba29feaad3f2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-12 03:41:50</sys_created_on>
+        <sys_id>c97c33ff83c95e506bf6ba29feaad32f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1927ed179630000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-12 03:41:50</sys_updated_on>
+        <type>UX App Route</type>
+        <update_guid>417c33ff1ec95e5032a052f2b3525e2f</update_guid>
+        <update_guid_history>417c33ff1ec95e5032a052f2b3525e2f:-384812470,bf5c37bf2cc95e5016deb0919e19d389:-1321360970</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-12 03:56:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_route">sys_ux_app_route</sys_db_object>
+        <sys_id>00f3ef1c6a5745688018d9fbeec2ce40</sys_id>
+        <sys_metadata>735c37bf83c95e506bf6ba29feaad388</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Candidatura</sys_name>
+        <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_scope_delete display_value="">bcf4d85c582b43c4969a1f41fad23b10</sys_scope_delete>
+        <sys_update_name>sys_ux_app_route_735c37bf83c95e506bf6ba29feaad388</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_route_735c37bf83c95e506bf6ba29feaad388">c97c33ff83c95e506bf6ba29feaad32f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-12 03:56:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

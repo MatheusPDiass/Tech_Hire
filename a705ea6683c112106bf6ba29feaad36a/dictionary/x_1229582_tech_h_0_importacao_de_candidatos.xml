@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a1e0222883d556106bf6ba29feaad3c4" extends="sys_import_set_row" label="importacao de candidatos" max_length="40" name="x_1229582_tech_h_0_importacao_de_candidatos" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Number" label="Number" max_length="40" name="u_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Telefone / Celular" label="Telefone / Celular" max_length="40" name="u_telefone___celular" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Nome Completo" label="Nome Completo" max_length="40" name="u_nome_completo" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Data de Nascimento" label="Data de Nascimento" max_length="40" name="u_data_de_nascimento" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Email" label="Email" max_length="40" name="u_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Class" label="Class" max_length="40" name="u_class" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=CPF" label="CPF" max_length="40" name="u_cpf" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Idiomas" label="Idiomas" max_length="40" name="u_idiomas" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=sys id" label="sys id" max_length="40" name="u_sys_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Created" label="Created" max_length="40" name="u_created" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Disponibilidade para Inicio" label="Disponibilidade para Inicio" max_length="40" name="u_disponibilidade_para_inicio" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Updated" label="Updated" max_length="40" name="u_updated" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Nacionalidade" label="Nacionalidade" max_length="40" name="u_nacionalidade" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Created By" label="Created By" max_length="40" name="u_created_by" type="string"/>
+    </element>
+</database>

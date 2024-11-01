@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="DELETE">
+        <macroponent_config>{
+    "029f04e053610110ac9bddeeff7b1294": {
+        "inputSysId": "d1298f7b83c51e506bf6ba29feaad334",
+        "inputTable": "x_1229582_tech_h_0_candidaturas",
+        "shouldSuppressGlobalEvents": true,
+        "isMappedToAppShell": true
+    },
+    "table": "x_1229582_tech_h_0_candidaturas",
+    "sysId": "a516c40c83dd5e506bf6ba29feaad3b2"
+}</macroponent_config>
+        <screen display_value="Default">3e30c48c831d5e506bf6ba29feaad380</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-12 03:58:20</sys_created_on>
+        <sys_id>3630c48c831d5e506bf6ba29feaad384</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_3630c48c831d5e506bf6ba29feaad384</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-12 04:31:45</sys_updated_on>
+    </sys_uib_screen_test_values>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</application>
+        <file_path/>
+        <instance_id>54a6739fdb86fd14f697684e139619f1</instance_id>
+        <instance_name>dev196913</instance_name>
+        <name>sys_uib_screen_test_values_3630c48c831d5e506bf6ba29feaad384</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values"><sys_uib_screen_test_values action="INSERT_OR_UPDATE"><macroponent_config>{
+    "029f04e053610110ac9bddeeff7b1294": {
+        "inputSysId": "d1298f7b83c51e506bf6ba29feaad334",
+        "inputTable": "x_1229582_tech_h_0_candidaturas",
+        "shouldSuppressGlobalEvents": true,
+        "isMappedToAppShell": true
+    },
+    "table": "x_1229582_tech_h_0_candidaturas",
+    "sysId": "a516c40c83dd5e506bf6ba29feaad3b2"
+}</macroponent_config><screen display_value="Default">3e30c48c831d5e506bf6ba29feaad380</screen><sys_class_name>sys_uib_screen_test_values</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-12 03:58:20</sys_created_on><sys_id>3630c48c831d5e506bf6ba29feaad384</sys_id><sys_mod_count>2</sys_mod_count><sys_name/><sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package><sys_policy/><sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope><sys_update_name>sys_uib_screen_test_values_3630c48c831d5e506bf6ba29feaad384</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-12 04:31:45</sys_updated_on></sys_uib_screen_test_values></record_update>]]></payload>
+        <payload_hash>-227402960</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>1e8e666b830596506bf6ba29feaad3f2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-12 04:31:45</sys_created_on>
+        <sys_id>dce7400c83119e506bf6ba29feaad3ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1927eff2e070000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-12 04:31:45</sys_updated_on>
+        <type>UIB Screen Test Values</type>
+        <update_guid>d0e7400c4e119e50766628e2676ad7ba</update_guid>
+        <update_guid_history>d0e7400c4e119e50766628e2676ad7ba:-227402960,7c808c8cee1d5e509b9e14627f15cec7:922449475,7a30c48ce21d5e504e27dd1d109f6185:1694040020</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-13 14:36:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_uib_screen_test_values">sys_uib_screen_test_values</sys_db_object>
+        <sys_id>1c9760198dcb41dca1b32df51efd7f90</sys_id>
+        <sys_metadata>3630c48c831d5e506bf6ba29feaad384</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_scope_delete display_value="">bcf4d85c582b43c4969a1f41fad23b10</sys_scope_delete>
+        <sys_update_name>sys_uib_screen_test_values_3630c48c831d5e506bf6ba29feaad384</sys_update_name>
+        <sys_update_version display_value="sys_uib_screen_test_values_3630c48c831d5e506bf6ba29feaad384">dce7400c83119e506bf6ba29feaad3ba</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-13 14:36:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

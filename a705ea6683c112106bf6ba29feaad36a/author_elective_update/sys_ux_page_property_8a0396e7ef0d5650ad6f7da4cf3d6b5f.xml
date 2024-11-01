@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>sys_ux_applicability sys_id for Workspace audience</description>
+        <name>wbApplicabilityConfigId</name>
+        <page display_value="Tech Hire">4a0396e7020d5650111084d005574a6f</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 01:22:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>8a0396e7ef0d5650ad6f7da4cf3d6b5f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>wbApplicabilityConfigId</sys_name>
+        <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_update_name>sys_ux_page_property_8a0396e7ef0d5650ad6f7da4cf3d6b5f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 01:22:51</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1229582_tech_h_0.4a0396e7020d5650111084d005574a6f.root.global.wbApplicabilityConfigId</unique_name>
+        <value>1703d6e7830d56506bf6ba29feaad38d</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=8a0396e7ef0d5650ad6f7da4cf3d6b5f"/>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</application>
+        <file_path/>
+        <instance_id>54a6739fdb86fd14f697684e139619f1</instance_id>
+        <instance_name>dev196913</instance_name>
+        <name>sys_ux_page_property_8a0396e7ef0d5650ad6f7da4cf3d6b5f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>sys_ux_applicability sys_id for Workspace audience</description>
+        <name>wbApplicabilityConfigId</name>
+        <page display_value="Tech Hire">4a0396e7020d5650111084d005574a6f</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 01:22:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>8a0396e7ef0d5650ad6f7da4cf3d6b5f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>wbApplicabilityConfigId</sys_name>
+        <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_update_name>sys_ux_page_property_8a0396e7ef0d5650ad6f7da4cf3d6b5f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 01:22:51</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1229582_tech_h_0.4a0396e7020d5650111084d005574a6f.root.global.wbApplicabilityConfigId</unique_name>
+        <value>1703d6e7830d56506bf6ba29feaad38d</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=8a0396e7ef0d5650ad6f7da4cf3d6b5f"/>
+</record_update>]]></payload>
+        <payload_hash>1319019357</payload_hash>
+        <record_name>wbApplicabilityConfigId</record_name>
+        <reverted_from/>
+        <source>fd2eea6b830596506bf6ba29feaad32b</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 03:22:07</sys_created_on>
+        <sys_id>2a5ea22f830596506bf6ba29feaad3f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1927999119c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 03:22:07</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>e25ea22f3c05965071469006ce07b9f9</update_guid>
+        <update_guid_history>e25ea22f3c05965071469006ce07b9f9:0,c7182e2f554196500c57f9523ab174ee:-167686903,d703d6e74d0d5650e9433ad51ad5fc94:1527590217,1f03d6e7d20d5650daba9fca55d5a892:95105788</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 12:23:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>03f6894a07324374802fac052ef6d624</sys_id>
+        <sys_metadata>8a0396e7ef0d5650ad6f7da4cf3d6b5f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>wbApplicabilityConfigId</sys_name>
+        <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_scope_delete display_value="">bcf4d85c582b43c4969a1f41fad23b10</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_8a0396e7ef0d5650ad6f7da4cf3d6b5f</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_8a0396e7ef0d5650ad6f7da4cf3d6b5f">2a5ea22f830596506bf6ba29feaad3f9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 12:23:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

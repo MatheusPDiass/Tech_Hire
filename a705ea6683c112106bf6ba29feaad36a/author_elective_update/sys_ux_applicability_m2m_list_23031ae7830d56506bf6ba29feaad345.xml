@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="DELETE">
+        <active>true</active>
+        <applicability display_value="Audience for app tech-hire">1703d6e7830d56506bf6ba29feaad38d</applicability>
+        <list/>
+        <order>100</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 01:22:52</sys_created_on>
+        <sys_id>23031ae7830d56506bf6ba29feaad345</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_23031ae7830d56506bf6ba29feaad345</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 01:22:52</sys_updated_on>
+    </sys_ux_applicability_m2m_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</application>
+        <file_path/>
+        <instance_id>54a6739fdb86fd14f697684e139619f1</instance_id>
+        <instance_name>dev196913</instance_name>
+        <name>sys_ux_applicability_m2m_list_23031ae7830d56506bf6ba29feaad345</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list"><sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE"><active>true</active><applicability display_value="Audience for app tech-hire">1703d6e7830d56506bf6ba29feaad38d</applicability><list/><order>100</order><sys_class_name>sys_ux_applicability_m2m_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-11 01:22:52</sys_created_on><sys_id>23031ae7830d56506bf6ba29feaad345</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package><sys_policy/><sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope><sys_update_name>sys_ux_applicability_m2m_list_23031ae7830d56506bf6ba29feaad345</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-11 01:22:52</sys_updated_on></sys_ux_applicability_m2m_list></record_update>]]></payload>
+        <payload_hash>1919565100</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>1e8e666b830596506bf6ba29feaad3f2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 12:23:45</sys_created_on>
+        <sys_id>e45aec7783415a506bf6ba29feaad39d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1927b88f1f30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 12:23:45</sys_updated_on>
+        <type>List Applicability</type>
+        <update_guid>a05aec77a7415a500ec29ce35eb7659d</update_guid>
+        <update_guid_history>a05aec77a7415a500ec29ce35eb7659d:0,f15eeeeb70059650dd4b891a2dc7dced:0,32182e2f274196504cad13af3396d66b:125588268,2a182e2f9141965093301a6fc7498145:0,63031ae7ea0d56500a6f92e6163f0d46:1623446964</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 12:23:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_applicability_m2m_list">sys_ux_applicability_m2m_list</sys_db_object>
+        <sys_id>2b3e23ada2a64cb0a9e500da7b535100</sys_id>
+        <sys_metadata>23031ae7830d56506bf6ba29feaad345</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_scope_delete display_value="">bcf4d85c582b43c4969a1f41fad23b10</sys_scope_delete>
+        <sys_update_name>sys_ux_applicability_m2m_list_23031ae7830d56506bf6ba29feaad345</sys_update_name>
+        <sys_update_version display_value="sys_ux_applicability_m2m_list_23031ae7830d56506bf6ba29feaad345">e45aec7783415a506bf6ba29feaad39d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 12:23:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

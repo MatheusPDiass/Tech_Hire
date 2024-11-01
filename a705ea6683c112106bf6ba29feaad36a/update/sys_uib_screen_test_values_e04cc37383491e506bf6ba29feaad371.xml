@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{
+    "029f04e053610110ac9bddeeff7b1294": {
+        "forcedViewName": "visao_candidato_e_tecnica",
+        "inputSysId": "94166a68839956106bf6ba29feaad3ab",
+        "inputTable": "x_1229582_tech_h_0_candidaturas",
+        "isMappedToAppShell": true,
+        "shouldSuppressGlobalEvents": true,
+        "view": "workspace-tech-hire-2"
+    },
+    "table": "x_1229582_tech_h_0_candidaturas",
+    "sysId": "94166a68839956106bf6ba29feaad3ab",
+    "views": "visao_do_candidato"
+}</macroponent_config>
+        <screen display_value="Default">684cc37383491e506bf6ba29feaad36c</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-12 00:11:16</sys_created_on>
+        <sys_id>e04cc37383491e506bf6ba29feaad371</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_e04cc37383491e506bf6ba29feaad371</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-14 05:42:17</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>

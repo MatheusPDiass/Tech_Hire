@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{
+    "029f04e053610110ac9bddeeff7b1294": {
+        "activityLogs": "",
+        "detailsContext": "",
+        "fields": "",
+        "forcedViewName": "",
+        "inputActionLayoutId": "",
+        "inputExtraParams": "",
+        "inputQuery": "",
+        "inputSysId": "56c940b6f8b6021008dd9cfea425acbd",
+        "inputTable": "task",
+        "isMappedToAppShell": true,
+        "requireExplicitEventMapping": false,
+        "screen": "",
+        "selectedTabIndex": "",
+        "shouldDisplayFormErrorsAsPageAlerts": false,
+        "shouldSuppressGlobalEvents": true,
+        "userPrefs": "",
+        "view": "workspace-tech-hire-2"
+    },
+    "table": "x_1229582_tech_h_0_candidatos",
+    "sysId": "5885a2e0839956106bf6ba29feaad3b0"
+}</macroponent_config>
+        <screen display_value="Default">61a2163783c1da506bf6ba29feaad330</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 19:59:34</sys_created_on>
+        <sys_id>69a2163783c1da506bf6ba29feaad333</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Tech Hire" source="x_1229582_tech_h_0">a705ea6683c112106bf6ba29feaad36a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Hire">a705ea6683c112106bf6ba29feaad36a</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_69a2163783c1da506bf6ba29feaad333</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-14 05:40:43</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>
